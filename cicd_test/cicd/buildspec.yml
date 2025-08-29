@@ -18,7 +18,7 @@ phases:
   build:
     commands:
       - echo $PWD
-      - go build -C ./src -o app
+      - go build -C cicd_test/src -o app
       - echo "Building Docker image..."
       - docker build -t $ECR_REPOSITORY:latest -f ../cicd/Dockerfile .
 
