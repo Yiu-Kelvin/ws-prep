@@ -18,9 +18,9 @@ phases:
   build:
     commands:
       - echo "Building Go binary..."
-      - go build -C ../src -o app
+      - go build -C ./src -o app
       - echo "Building Docker image..."
-      - docker build -t $ECR_REPOSITORY:latest -f Dockerfile .
+      - docker build -t $ECR_REPOSITORY:latest -f ../cicd/Dockerfile .
 
   post_build:
     commands:
