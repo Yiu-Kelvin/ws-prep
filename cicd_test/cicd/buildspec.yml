@@ -1,0 +1,31 @@
+version: 0.2
+
+env:
+  variables:
+    ECR_REPOSITORY: "540731803504.dkr.ecr.us-east-1.amazonaws.com/go/hello-http" # Replace with yours
+
+phases:
+  install:
+    runtime-variables:
+      GOPROXY: "https://proxy.golang.org,direct"
+    commands:
+      - echo "Installing Go 1.22"
+      - curl -LO https://golang.org/dl/go1.22.0.linux-amd64.tar.gz
+      - sudo tar -C /usr/local -xzf go1.22.0.linux-amd64.tar.gz
+      - export PATH=$PATH:/usr/local/go/bin
+      - go version
+
+  build:
+    commands:
+      - echo "Building Go binary..."
+      - go build -C ../src -o app
+      - echo "Building Docker image..."
+      - docker build -t $ECR_REPOSITORY:latest -f Dockerfile .
+
+  post_build:
+    commands:
+      - echo "Pushing to ECR..."
+      - $(aws ecr get-login --no-include-email --region $AWS_DEFAULT_REGION)
+      - docker tag $ECR_REPOSITORY:latest $ECR_REPOSITORY:$CODEBUILD_BUILD_NUMBER
+      - docker push $ECR_REPOSITORY:latest
+      - docker push $ECR_REPOSITORY:$CODEBUILD_BUILD_NUMBER
