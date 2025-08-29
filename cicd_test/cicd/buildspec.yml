@@ -30,6 +30,7 @@ phases:
       - docker tag $ECR_REPOSITORY:latest $ECR_REPOSITORY:$CODEBUILD_BUILD_NUMBER
       - docker push $ECR_REPOSITORY:latest
       - docker push $ECR_REPOSITORY:$CODEBUILD_BUILD_NUMBER
+      - cd ..
       - printf '[{"name":"hello-world","imageUri":"%s"}]' $ECR_REPOSITORY:$CODEBUILD_BUILD_NUMBER > imagedefinitions.json
 artifacts:
     files: imagedefinitions.json
