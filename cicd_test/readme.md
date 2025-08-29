@@ -3,6 +3,7 @@
 - set repohjjdd
 - buildspec path: cicd_test/cicd/buildspec.yml
 - set artifact outpout json
+adfaf:w
 
 # codepipline
 - git hub as src
