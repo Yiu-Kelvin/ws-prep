@@ -4,7 +4,7 @@
 - buildspec path: cicd_test/cicd/buildspec.yml
 - set artifact outpout json
 adfaf:w
-
+afsdfsdfd
 # codepipline
 - git hub as src
 - CodeBuild as build provider
