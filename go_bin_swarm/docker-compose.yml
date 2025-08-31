@@ -1,0 +1,25 @@
+version: '3.8'
+
+services:
+  postgres:
+    image: unicorn_db:latest
+    deploy:
+      replicas: 1
+      update_config:
+        parallelism: 1
+        delay: 10s
+
+  webserver:
+    image: ws-server:latest  # Replace with your built image
+    ports:  # ✅ CRITICAL: Publish host port to container port
+      - "80:80"  # Host port:Container port
+    depends_on:
+      - postgres  # Optional: Ensures DB starts first (Swarm ignores depends_on for dependencies)
+    deploy:
+      replicas: 1000
+      update_config:
+        parallelism: 2
+        delay: 10s
+networks:
+  ws-network:
+    external: true 

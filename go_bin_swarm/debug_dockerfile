@@ -1,0 +1,22 @@
+# Start with a base image
+FROM ubuntu:22.04
+
+# Update package lists and install common debugging tools
+RUN apt-get update && apt-get install -y \
+    vim \
+    gdb \
+    strace \
+    curl \
+    wget \
+    net-tools \
+    telnet \
+    less \
+    htop \
+    tree \
+    && rm -rf /var/lib/apt/lists/*
+
+# Set working directory
+WORKDIR /workspace
+
+# Set default command to interactive shell
+CMD ["/bin/bash"]

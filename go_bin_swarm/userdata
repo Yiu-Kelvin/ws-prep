@@ -1,0 +1,50 @@
+#! /bin/bash
+
+sleep 30
+yum -y install wget
+sleep 5
+
+config_file="server.ini"
+server_bin="bin"
+
+wget <location of server.ini> -o $config_file
+wget <location of server.ini> -o $server_bin
+
+chmod +x $server_bin
+
+cat <<EOF > Dockerfile
+FROM alpine:latest
+
+# Set working directory
+WORKDIR /app
+
+# Copy binary and config file (ensure these files exist in your current dir!)
+COPY $config_file .
+COPY $server_bin .
+
+RUN chmod +x $server_bin
+
+EXPOSE 80
+# Start the binary when the container runs
+CMD ["./$server_bin"]
+EOF
+
+docker build -t server_image .
+
+
+cat <<EOF > docker-compose.yml
+version: '3.8'
+services:
+  webserver:
+    image: server_image:latest
+    ports:
+      - "80:80"
+    deploy:
+      replicas: 10
+      update_config:
+        parallelism: 2
+        delay: 10s
+EOF
+
+docker swarm init
+docker stack deploy -c docker-compose.yml server

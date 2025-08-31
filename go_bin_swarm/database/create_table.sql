@@ -1,0 +1,7 @@
+-- create_table.sql
+CREATE TABLE IF NOT EXISTS unicorntable (
+    id SERIAL PRIMARY KEY,
+    requestid VARCHAR(255),
+    requestvalue VARCHAR(255),
+    hits INT
+);

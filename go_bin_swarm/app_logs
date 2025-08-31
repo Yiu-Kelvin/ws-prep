@@ -1,0 +1,761 @@
+INFO: 2025/08/30 21:38:28 Entries currently stored:  0
+INFO: 2025/08/30 21:38:28 Precomputng...
+INFO: 2025/08/30 21:38:28 Done with preliminary computations.
+INFO: 2025/08/30 21:38:28 Application log file:  ./app_logs
+INFO: 2025/08/30 21:38:28 Server port numer:  80
+INFO: 2025/08/30 21:38:28 Configuration file:  server.ini
+ERROR: 2025/08/30 21:38:28 listen tcp :80: bind: permission denied
+INFO: 2025/08/30 21:38:39 Entries currently stored:  0
+INFO: 2025/08/30 21:38:39 Precomputng...
+INFO: 2025/08/30 21:38:39 Done with preliminary computations.
+INFO: 2025/08/30 21:38:39 Application log file:  ./app_logs
+INFO: 2025/08/30 21:38:39 Server port numer:  80
+INFO: 2025/08/30 21:38:39 Configuration file:  server.ini
+ERROR: 2025/08/30 21:38:39 listen tcp :80: bind: address already in use
+INFO: 2025/08/30 21:39:11 Entries currently stored:  0
+INFO: 2025/08/30 21:39:11 Precomputng...
+INFO: 2025/08/30 21:39:12 Done with preliminary computations.
+INFO: 2025/08/30 21:39:12 Application log file:  ./app_logs
+INFO: 2025/08/30 21:39:12 Server port numer:  80
+INFO: 2025/08/30 21:39:12 Configuration file:  server.ini
+WARNING: 2025/08/30 22:10:59 No PostgreSQL record found for request: VgBh54+pXLs9aduJ4+YQ97Ra43CnmCjuqSzLFmvir8c= (false)
+ERROR: 2025/08/30 22:10:59 Error on PostgreSQL database call creating new entry: %!(EXTRA *pq.Error=pq: column "requestid" of relation "unicorntable" does not exist)
+ERROR: 2025/08/30 22:10:59 Could not create database entry:  pq: column "requestid" of relation "unicorntable" does not exist
+INFO: 2025/08/30 22:10:59 Database cache miss:  VgBh54+pXLs9aduJ4+YQ97Ra43CnmCjuqSzLFmvir8c=
+INFO: 2025/08/30 22:11:03 Got result in  4.012240962
+WARNING: 2025/08/30 22:15:59 No PostgreSQL record found for request: OIT1I3QCs21lhEY9N/IyuUxAaazC3tBONCS8OT2ffiY= (false)
+ERROR: 2025/08/30 22:15:59 Error on PostgreSQL database call creating new entry: %!(EXTRA *pq.Error=pq: column "requestid" of relation "unicorntable" does not exist)
+ERROR: 2025/08/30 22:15:59 Could not create database entry:  pq: column "requestid" of relation "unicorntable" does not exist
+INFO: 2025/08/30 22:15:59 Database cache miss:  OIT1I3QCs21lhEY9N/IyuUxAaazC3tBONCS8OT2ffiY=
+INFO: 2025/08/30 22:16:03 Got result in  4.008754118
+WARNING: 2025/08/30 22:16:10 No PostgreSQL record found for request: OIT1I3QCs21lhEY9N/IyuUxAaazC3tBONCS8OT2ffiY= (false)
+ERROR: 2025/08/30 22:16:10 Error on PostgreSQL database call creating new entry: %!(EXTRA *pq.Error=pq: column "requestid" of relation "unicorntable" does not exist)
+ERROR: 2025/08/30 22:16:10 Could not create database entry:  pq: column "requestid" of relation "unicorntable" does not exist
+INFO: 2025/08/30 22:16:10 Database cache miss:  OIT1I3QCs21lhEY9N/IyuUxAaazC3tBONCS8OT2ffiY=
+WARNING: 2025/08/30 22:16:11 No PostgreSQL record found for request: OIT1I3QCs21lhEY9N/IyuUxAaazC3tBONCS8OT2ffiY= (false)
+ERROR: 2025/08/30 22:16:11 Error on PostgreSQL database call creating new entry: %!(EXTRA *pq.Error=pq: column "requestid" of relation "unicorntable" does not exist)
+ERROR: 2025/08/30 22:16:11 Could not create database entry:  pq: column "requestid" of relation "unicorntable" does not exist
+INFO: 2025/08/30 22:16:11 Database cache miss:  OIT1I3QCs21lhEY9N/IyuUxAaazC3tBONCS8OT2ffiY=
+INFO: 2025/08/30 22:16:14 Got result in  4.007120344
+INFO: 2025/08/30 22:16:18 Got result in  7.423438366
+ERROR: 2025/08/30 22:18:53 Cannot get application lock file initiatied:  open /tmp/unicorn.rentals.lck: permission denied
+INFO: 2025/08/30 22:18:57 Entries currently stored:  0
+INFO: 2025/08/30 22:18:57 Precomputng...
+INFO: 2025/08/30 22:18:57 Done with preliminary computations.
+INFO: 2025/08/30 22:18:57 Application log file:  ./app_logs
+INFO: 2025/08/30 22:18:57 Server port numer:  80
+INFO: 2025/08/30 22:18:57 Configuration file:  server.ini
+WARNING: 2025/08/30 22:19:03 No PostgreSQL record found for request: OIT1I3QCs21lhEY9N/IyuUxAaazC3tBONCS8OT2ffiY= (false)
+ERROR: 2025/08/30 22:19:03 Error on PostgreSQL database call creating new entry: %!(EXTRA *pq.Error=pq: column "requestid" of relation "unicorntable" does not exist)
+ERROR: 2025/08/30 22:19:03 Could not create database entry:  pq: column "requestid" of relation "unicorntable" does not exist
+INFO: 2025/08/30 22:19:03 Database cache miss:  OIT1I3QCs21lhEY9N/IyuUxAaazC3tBONCS8OT2ffiY=
+INFO: 2025/08/30 22:19:07 Got result in  4.009491199
+INFO: 2025/08/30 22:20:23 Entries currently stored:  0
+INFO: 2025/08/30 22:20:23 Precomputng...
+INFO: 2025/08/30 22:20:24 Done with preliminary computations.
+INFO: 2025/08/30 22:20:24 Application log file:  ./app_logs
+INFO: 2025/08/30 22:20:24 Server port numer:  80
+INFO: 2025/08/30 22:20:24 Configuration file:  server.ini
+WARNING: 2025/08/30 22:20:29 No PostgreSQL record found for request: OIT1I3QCs21lhEY9N/IyuUxAaazC3tBONCS8OT2ffiY= (false)
+ERROR: 2025/08/30 22:20:29 Error on PostgreSQL database call creating new entry: %!(EXTRA *pq.Error=pq: column "requestid" of relation "unicorntable" does not exist)
+ERROR: 2025/08/30 22:20:29 Could not create database entry:  pq: column "requestid" of relation "unicorntable" does not exist
+INFO: 2025/08/30 22:20:29 Database cache miss:  OIT1I3QCs21lhEY9N/IyuUxAaazC3tBONCS8OT2ffiY=
+INFO: 2025/08/30 22:20:33 Got result in  4.009584009
+INFO: 2025/08/30 22:21:40 Entries currently stored:  0
+INFO: 2025/08/30 22:21:40 Precomputng...
+INFO: 2025/08/30 22:21:40 Done with preliminary computations.
+INFO: 2025/08/30 22:21:40 Application log file:  ./app_logs
+INFO: 2025/08/30 22:21:40 Server port numer:  80
+INFO: 2025/08/30 22:21:40 Configuration file:  server.ini
+WARNING: 2025/08/30 22:21:43 No PostgreSQL record found for request: OIT1I3QCs21lhEY9N/IyuUxAaazC3tBONCS8OT2ffiY= (false)
+INFO: 2025/08/30 22:21:43 Database cache miss:  OIT1I3QCs21lhEY9N/IyuUxAaazC3tBONCS8OT2ffiY=
+INFO: 2025/08/30 22:21:47 Got result in  4.015257678
+INFO: 2025/08/30 22:21:50 Database cache hit:  OIT1I3QCs21lhEY9N/IyuUxAaazC3tBONCS8OT2ffiY=
+INFO: 2025/08/30 22:21:51 Got result in  0.508760909
+WARNING: 2025/08/30 22:22:18 No PostgreSQL record found for request: OYUGuUHC5zREQjD126Qx4LTTqlkPnukbwmD7xk2R2Po= (false)
+INFO: 2025/08/30 22:22:18 Database cache miss:  OYUGuUHC5zREQjD126Qx4LTTqlkPnukbwmD7xk2R2Po=
+INFO: 2025/08/30 22:22:22 Got result in  4.01608903
+ERROR: 2025/08/30 22:24:27 Error on supplied calculation value:  illegal base64 data at input byte 0
+ERROR: 2025/08/30 22:30:37 Error on supplied calculation value:  illegal base64 data at input byte 20
+ERROR: 2025/08/30 22:30:37 Error on supplied calculation value:  illegal base64 data at input byte 20
+ERROR: 2025/08/30 22:30:37 Error on supplied calculation value:  illegal base64 data at input byte 20
+ERROR: 2025/08/30 22:30:37 Error on supplied calculation value:  illegal base64 data at input byte 20
+ERROR: 2025/08/30 22:30:37 Error on supplied calculation value:  illegal base64 data at input byte 20
+ERROR: 2025/08/30 22:30:37 Error on supplied calculation value:  illegal base64 data at input byte 20
+ERROR: 2025/08/30 22:30:37 Error on supplied calculation value:  illegal base64 data at input byte 20
+ERROR: 2025/08/30 22:30:37 Error on supplied calculation value:  illegal base64 data at input byte 20
+ERROR: 2025/08/30 22:30:37 Error on supplied calculation value:  illegal base64 data at input byte 20
+ERROR: 2025/08/30 22:30:37 Error on supplied calculation value:  illegal base64 data at input byte 20
+ERROR: 2025/08/30 22:30:37 Error on supplied calculation value:  illegal base64 data at input byte 20
+ERROR: 2025/08/30 22:30:37 Error on supplied calculation value:  illegal base64 data at input byte 20
+ERROR: 2025/08/30 22:30:37 Error on supplied calculation value:  illegal base64 data at input byte 20
+ERROR: 2025/08/30 22:30:37 Error on supplied calculation value:  illegal base64 data at input byte 20
+ERROR: 2025/08/30 22:30:37 Error on supplied calculation value:  illegal base64 data at input byte 20
+ERROR: 2025/08/30 22:30:37 Error on supplied calculation value:  illegal base64 data at input byte 20
+ERROR: 2025/08/30 22:30:37 Error on supplied calculation value:  illegal base64 data at input byte 20
+ERROR: 2025/08/30 22:30:37 Error on supplied calculation value:  illegal base64 data at input byte 20
+ERROR: 2025/08/30 22:30:37 Error on supplied calculation value:  illegal base64 data at input byte 20
+ERROR: 2025/08/30 22:30:37 Error on supplied calculation value:  illegal base64 data at input byte 20
+ERROR: 2025/08/30 22:30:37 Error on supplied calculation value:  illegal base64 data at input byte 20
+ERROR: 2025/08/30 22:30:37 Error on supplied calculation value:  illegal base64 data at input byte 20
+ERROR: 2025/08/30 22:30:37 Error on supplied calculation value:  illegal base64 data at input byte 20
+ERROR: 2025/08/30 22:30:37 Error on supplied calculation value:  illegal base64 data at input byte 20
+ERROR: 2025/08/30 22:30:37 Error on supplied calculation value:  illegal base64 data at input byte 20
+ERROR: 2025/08/30 22:30:37 Error on supplied calculation value:  illegal base64 data at input byte 20
+ERROR: 2025/08/30 22:30:37 Error on supplied calculation value:  illegal base64 data at input byte 20
+ERROR: 2025/08/30 22:30:37 Error on supplied calculation value:  illegal base64 data at input byte 20
+ERROR: 2025/08/30 22:30:37 Error on supplied calculation value:  illegal base64 data at input byte 20
+ERROR: 2025/08/30 22:30:37 Error on supplied calculation value:  illegal base64 data at input byte 20
+ERROR: 2025/08/30 22:30:37 Error on supplied calculation value:  illegal base64 data at input byte 20
+ERROR: 2025/08/30 22:30:37 Error on supplied calculation value:  illegal base64 data at input byte 20
+ERROR: 2025/08/30 22:30:37 Error on supplied calculation value:  illegal base64 data at input byte 20
+ERROR: 2025/08/30 22:30:37 Error on supplied calculation value:  illegal base64 data at input byte 20
+ERROR: 2025/08/30 22:30:37 Error on supplied calculation value:  illegal base64 data at input byte 20
+ERROR: 2025/08/30 22:30:37 Error on supplied calculation value:  illegal base64 data at input byte 20
+ERROR: 2025/08/30 22:30:37 Error on supplied calculation value:  illegal base64 data at input byte 20
+ERROR: 2025/08/30 22:30:37 Error on supplied calculation value:  illegal base64 data at input byte 20
+ERROR: 2025/08/30 22:30:37 Error on supplied calculation value:  illegal base64 data at input byte 20
+ERROR: 2025/08/30 22:30:37 Error on supplied calculation value:  illegal base64 data at input byte 20
+ERROR: 2025/08/30 22:30:37 Error on supplied calculation value:  illegal base64 data at input byte 20
+ERROR: 2025/08/30 22:30:37 Error on supplied calculation value:  illegal base64 data at input byte 20
+ERROR: 2025/08/30 22:30:37 Error on supplied calculation value:  illegal base64 data at input byte 20
+ERROR: 2025/08/30 22:30:37 Error on supplied calculation value:  illegal base64 data at input byte 20
+ERROR: 2025/08/30 22:30:37 Error on supplied calculation value:  illegal base64 data at input byte 20
+ERROR: 2025/08/30 22:30:37 Error on supplied calculation value:  illegal base64 data at input byte 20
+ERROR: 2025/08/30 22:30:37 Error on supplied calculation value:  illegal base64 data at input byte 20
+ERROR: 2025/08/30 22:30:37 Error on supplied calculation value:  illegal base64 data at input byte 20
+ERROR: 2025/08/30 22:30:37 Error on supplied calculation value:  illegal base64 data at input byte 20
+ERROR: 2025/08/30 22:30:37 Error on supplied calculation value:  illegal base64 data at input byte 20
+ERROR: 2025/08/30 22:30:37 Error on supplied calculation value:  illegal base64 data at input byte 20
+ERROR: 2025/08/30 22:30:37 Error on supplied calculation value:  illegal base64 data at input byte 20
+ERROR: 2025/08/30 22:30:37 Error on supplied calculation value:  illegal base64 data at input byte 20
+ERROR: 2025/08/30 22:30:37 Error on supplied calculation value:  illegal base64 data at input byte 20
+ERROR: 2025/08/30 22:30:37 Error on supplied calculation value:  illegal base64 data at input byte 20
+ERROR: 2025/08/30 22:30:37 Error on supplied calculation value:  illegal base64 data at input byte 20
+ERROR: 2025/08/30 22:30:37 Error on supplied calculation value:  illegal base64 data at input byte 20
+ERROR: 2025/08/30 22:30:37 Error on supplied calculation value:  illegal base64 data at input byte 20
+ERROR: 2025/08/30 22:30:37 Error on supplied calculation value:  illegal base64 data at input byte 20
+ERROR: 2025/08/30 22:30:37 Error on supplied calculation value:  illegal base64 data at input byte 20
+ERROR: 2025/08/30 22:30:37 Error on supplied calculation value:  illegal base64 data at input byte 20
+ERROR: 2025/08/30 22:30:37 Error on supplied calculation value:  illegal base64 data at input byte 20
+ERROR: 2025/08/30 22:30:37 Error on supplied calculation value:  illegal base64 data at input byte 20
+ERROR: 2025/08/30 22:30:37 Error on supplied calculation value:  illegal base64 data at input byte 20
+ERROR: 2025/08/30 22:30:37 Error on supplied calculation value:  illegal base64 data at input byte 20
+ERROR: 2025/08/30 22:30:37 Error on supplied calculation value:  illegal base64 data at input byte 20
+ERROR: 2025/08/30 22:30:37 Error on supplied calculation value:  illegal base64 data at input byte 20
+ERROR: 2025/08/30 22:30:37 Error on supplied calculation value:  illegal base64 data at input byte 20
+ERROR: 2025/08/30 22:30:37 Error on supplied calculation value:  illegal base64 data at input byte 20
+ERROR: 2025/08/30 22:30:37 Error on supplied calculation value:  illegal base64 data at input byte 20
+ERROR: 2025/08/30 22:30:37 Error on supplied calculation value:  illegal base64 data at input byte 20
+ERROR: 2025/08/30 22:30:37 Error on supplied calculation value:  illegal base64 data at input byte 20
+ERROR: 2025/08/30 22:30:37 Error on supplied calculation value:  illegal base64 data at input byte 20
+ERROR: 2025/08/30 22:30:37 Error on supplied calculation value:  illegal base64 data at input byte 20
+ERROR: 2025/08/30 22:30:37 Error on supplied calculation value:  illegal base64 data at input byte 20
+ERROR: 2025/08/30 22:30:37 Error on supplied calculation value:  illegal base64 data at input byte 20
+ERROR: 2025/08/30 22:30:37 Error on supplied calculation value:  illegal base64 data at input byte 20
+ERROR: 2025/08/30 22:30:37 Error on supplied calculation value:  illegal base64 data at input byte 20
+ERROR: 2025/08/30 22:30:37 Error on supplied calculation value:  illegal base64 data at input byte 20
+ERROR: 2025/08/30 22:30:37 Error on supplied calculation value:  illegal base64 data at input byte 20
+ERROR: 2025/08/30 22:30:37 Error on supplied calculation value:  illegal base64 data at input byte 20
+ERROR: 2025/08/30 22:30:37 Error on supplied calculation value:  illegal base64 data at input byte 20
+ERROR: 2025/08/30 22:30:37 Error on supplied calculation value:  illegal base64 data at input byte 20
+ERROR: 2025/08/30 22:30:37 Error on supplied calculation value:  illegal base64 data at input byte 20
+ERROR: 2025/08/30 22:30:37 Error on supplied calculation value:  illegal base64 data at input byte 20
+ERROR: 2025/08/30 22:30:37 Error on supplied calculation value:  illegal base64 data at input byte 20
+ERROR: 2025/08/30 22:30:37 Error on supplied calculation value:  illegal base64 data at input byte 20
+ERROR: 2025/08/30 22:30:37 Error on supplied calculation value:  illegal base64 data at input byte 20
+ERROR: 2025/08/30 22:30:37 Error on supplied calculation value:  illegal base64 data at input byte 20
+ERROR: 2025/08/30 22:30:37 Error on supplied calculation value:  illegal base64 data at input byte 20
+ERROR: 2025/08/30 22:30:37 Error on supplied calculation value:  illegal base64 data at input byte 20
+ERROR: 2025/08/30 22:30:37 Error on supplied calculation value:  illegal base64 data at input byte 20
+ERROR: 2025/08/30 22:30:37 Error on supplied calculation value:  illegal base64 data at input byte 20
+ERROR: 2025/08/30 22:30:37 Error on supplied calculation value:  illegal base64 data at input byte 20
+ERROR: 2025/08/30 22:30:37 Error on supplied calculation value:  illegal base64 data at input byte 20
+ERROR: 2025/08/30 22:30:37 Error on supplied calculation value:  illegal base64 data at input byte 20
+ERROR: 2025/08/30 22:30:37 Error on supplied calculation value:  illegal base64 data at input byte 20
+ERROR: 2025/08/30 22:30:37 Error on supplied calculation value:  illegal base64 data at input byte 20
+ERROR: 2025/08/30 22:30:37 Error on supplied calculation value:  illegal base64 data at input byte 20
+ERROR: 2025/08/30 22:30:37 Error on supplied calculation value:  illegal base64 data at input byte 20
+ERROR: 2025/08/30 22:30:37 Error on supplied calculation value:  illegal base64 data at input byte 20
+ERROR: 2025/08/30 22:30:37 Error on supplied calculation value:  illegal base64 data at input byte 20
+ERROR: 2025/08/30 22:30:37 Error on supplied calculation value:  illegal base64 data at input byte 20
+ERROR: 2025/08/30 22:30:37 Error on supplied calculation value:  illegal base64 data at input byte 20
+ERROR: 2025/08/30 22:30:37 Error on supplied calculation value:  illegal base64 data at input byte 20
+ERROR: 2025/08/30 22:30:37 Error on supplied calculation value:  illegal base64 data at input byte 20
+ERROR: 2025/08/30 22:30:37 Error on supplied calculation value:  illegal base64 data at input byte 20
+ERROR: 2025/08/30 22:30:37 Error on supplied calculation value:  illegal base64 data at input byte 20
+ERROR: 2025/08/30 22:30:37 Error on supplied calculation value:  illegal base64 data at input byte 20
+ERROR: 2025/08/30 22:30:37 Error on supplied calculation value:  illegal base64 data at input byte 20
+ERROR: 2025/08/30 22:30:37 Error on supplied calculation value:  illegal base64 data at input byte 20
+ERROR: 2025/08/30 22:30:37 Error on supplied calculation value:  illegal base64 data at input byte 20
+ERROR: 2025/08/30 22:30:37 Error on supplied calculation value:  illegal base64 data at input byte 20
+ERROR: 2025/08/30 22:30:37 Error on supplied calculation value:  illegal base64 data at input byte 20
+ERROR: 2025/08/30 22:30:37 Error on supplied calculation value:  illegal base64 data at input byte 20
+ERROR: 2025/08/30 22:30:37 Error on supplied calculation value:  illegal base64 data at input byte 20
+ERROR: 2025/08/30 22:30:37 Error on supplied calculation value:  illegal base64 data at input byte 20
+ERROR: 2025/08/30 22:30:37 Error on supplied calculation value:  illegal base64 data at input byte 20
+ERROR: 2025/08/30 22:30:37 Error on supplied calculation value:  illegal base64 data at input byte 20
+ERROR: 2025/08/30 22:30:37 Error on supplied calculation value:  illegal base64 data at input byte 20
+ERROR: 2025/08/30 22:30:37 Error on supplied calculation value:  illegal base64 data at input byte 20
+ERROR: 2025/08/30 22:30:37 Error on supplied calculation value:  illegal base64 data at input byte 20
+ERROR: 2025/08/30 22:30:37 Error on supplied calculation value:  illegal base64 data at input byte 20
+ERROR: 2025/08/30 22:30:37 Error on supplied calculation value:  illegal base64 data at input byte 20
+ERROR: 2025/08/30 22:30:37 Error on supplied calculation value:  illegal base64 data at input byte 20
+ERROR: 2025/08/30 22:30:37 Error on supplied calculation value:  illegal base64 data at input byte 20
+ERROR: 2025/08/30 22:30:37 Error on supplied calculation value:  illegal base64 data at input byte 20
+ERROR: 2025/08/30 22:30:37 Error on supplied calculation value:  illegal base64 data at input byte 20
+ERROR: 2025/08/30 22:30:37 Error on supplied calculation value:  illegal base64 data at input byte 20
+ERROR: 2025/08/30 22:30:37 Error on supplied calculation value:  illegal base64 data at input byte 20
+ERROR: 2025/08/30 22:30:37 Error on supplied calculation value:  illegal base64 data at input byte 20
+ERROR: 2025/08/30 22:30:37 Error on supplied calculation value:  illegal base64 data at input byte 20
+ERROR: 2025/08/30 22:30:37 Error on supplied calculation value:  illegal base64 data at input byte 20
+ERROR: 2025/08/30 22:30:37 Error on supplied calculation value:  illegal base64 data at input byte 20
+ERROR: 2025/08/30 22:30:37 Error on supplied calculation value:  illegal base64 data at input byte 20
+ERROR: 2025/08/30 22:30:37 Error on supplied calculation value:  illegal base64 data at input byte 20
+ERROR: 2025/08/30 22:30:37 Error on supplied calculation value:  illegal base64 data at input byte 20
+ERROR: 2025/08/30 22:30:37 Error on supplied calculation value:  illegal base64 data at input byte 20
+ERROR: 2025/08/30 22:30:37 Error on supplied calculation value:  illegal base64 data at input byte 20
+ERROR: 2025/08/30 22:30:37 Error on supplied calculation value:  illegal base64 data at input byte 20
+ERROR: 2025/08/30 22:30:37 Error on supplied calculation value:  illegal base64 data at input byte 20
+ERROR: 2025/08/30 22:30:37 Error on supplied calculation value:  illegal base64 data at input byte 20
+ERROR: 2025/08/30 22:30:37 Error on supplied calculation value:  illegal base64 data at input byte 20
+ERROR: 2025/08/30 22:30:37 Error on supplied calculation value:  illegal base64 data at input byte 20
+ERROR: 2025/08/30 22:30:37 Error on supplied calculation value:  illegal base64 data at input byte 20
+ERROR: 2025/08/30 22:30:37 Error on supplied calculation value:  illegal base64 data at input byte 20
+ERROR: 2025/08/30 22:30:37 Error on supplied calculation value:  illegal base64 data at input byte 20
+ERROR: 2025/08/30 22:30:37 Error on supplied calculation value:  illegal base64 data at input byte 20
+ERROR: 2025/08/30 22:30:37 Error on supplied calculation value:  illegal base64 data at input byte 20
+ERROR: 2025/08/30 22:30:37 Error on supplied calculation value:  illegal base64 data at input byte 20
+ERROR: 2025/08/30 22:30:37 Error on supplied calculation value:  illegal base64 data at input byte 20
+ERROR: 2025/08/30 22:30:37 Error on supplied calculation value:  illegal base64 data at input byte 20
+ERROR: 2025/08/30 22:30:37 Error on supplied calculation value:  illegal base64 data at input byte 20
+ERROR: 2025/08/30 22:30:37 Error on supplied calculation value:  illegal base64 data at input byte 20
+ERROR: 2025/08/30 22:30:37 Error on supplied calculation value:  illegal base64 data at input byte 20
+ERROR: 2025/08/30 22:30:37 Error on supplied calculation value:  illegal base64 data at input byte 20
+ERROR: 2025/08/30 22:30:37 Error on supplied calculation value:  illegal base64 data at input byte 20
+ERROR: 2025/08/30 22:30:37 Error on supplied calculation value:  illegal base64 data at input byte 20
+ERROR: 2025/08/30 22:30:37 Error on supplied calculation value:  illegal base64 data at input byte 20
+ERROR: 2025/08/30 22:30:37 Error on supplied calculation value:  illegal base64 data at input byte 20
+ERROR: 2025/08/30 22:30:37 Error on supplied calculation value:  illegal base64 data at input byte 20
+ERROR: 2025/08/30 22:30:37 Error on supplied calculation value:  illegal base64 data at input byte 20
+ERROR: 2025/08/30 22:30:37 Error on supplied calculation value:  illegal base64 data at input byte 20
+ERROR: 2025/08/30 22:30:37 Error on supplied calculation value:  illegal base64 data at input byte 20
+ERROR: 2025/08/30 22:30:37 Error on supplied calculation value:  illegal base64 data at input byte 20
+ERROR: 2025/08/30 22:30:37 Error on supplied calculation value:  illegal base64 data at input byte 20
+ERROR: 2025/08/30 22:30:37 Error on supplied calculation value:  illegal base64 data at input byte 20
+ERROR: 2025/08/30 22:30:37 Error on supplied calculation value:  illegal base64 data at input byte 20
+ERROR: 2025/08/30 22:30:37 Error on supplied calculation value:  illegal base64 data at input byte 20
+ERROR: 2025/08/30 22:30:37 Error on supplied calculation value:  illegal base64 data at input byte 20
+ERROR: 2025/08/30 22:30:37 Error on supplied calculation value:  illegal base64 data at input byte 20
+ERROR: 2025/08/30 22:30:37 Error on supplied calculation value:  illegal base64 data at input byte 20
+ERROR: 2025/08/30 22:30:37 Error on supplied calculation value:  illegal base64 data at input byte 20
+ERROR: 2025/08/30 22:30:37 Error on supplied calculation value:  illegal base64 data at input byte 20
+ERROR: 2025/08/30 22:30:37 Error on supplied calculation value:  illegal base64 data at input byte 20
+ERROR: 2025/08/30 22:30:37 Error on supplied calculation value:  illegal base64 data at input byte 20
+ERROR: 2025/08/30 22:30:37 Error on supplied calculation value:  illegal base64 data at input byte 20
+ERROR: 2025/08/30 22:30:37 Error on supplied calculation value:  illegal base64 data at input byte 20
+ERROR: 2025/08/30 22:30:37 Error on supplied calculation value:  illegal base64 data at input byte 20
+ERROR: 2025/08/30 22:30:37 Error on supplied calculation value:  illegal base64 data at input byte 20
+ERROR: 2025/08/30 22:30:37 Error on supplied calculation value:  illegal base64 data at input byte 20
+ERROR: 2025/08/30 22:30:37 Error on supplied calculation value:  illegal base64 data at input byte 20
+ERROR: 2025/08/30 22:30:37 Error on supplied calculation value:  illegal base64 data at input byte 20
+ERROR: 2025/08/30 22:30:37 Error on supplied calculation value:  illegal base64 data at input byte 20
+ERROR: 2025/08/30 22:30:37 Error on supplied calculation value:  illegal base64 data at input byte 20
+ERROR: 2025/08/30 22:30:37 Error on supplied calculation value:  illegal base64 data at input byte 20
+ERROR: 2025/08/30 22:30:37 Error on supplied calculation value:  illegal base64 data at input byte 20
+ERROR: 2025/08/30 22:30:37 Error on supplied calculation value:  illegal base64 data at input byte 20
+ERROR: 2025/08/30 22:30:37 Error on supplied calculation value:  illegal base64 data at input byte 20
+ERROR: 2025/08/30 22:30:37 Error on supplied calculation value:  illegal base64 data at input byte 20
+ERROR: 2025/08/30 22:30:37 Error on supplied calculation value:  illegal base64 data at input byte 20
+ERROR: 2025/08/30 22:30:37 Error on supplied calculation value:  illegal base64 data at input byte 20
+ERROR: 2025/08/30 22:30:37 Error on supplied calculation value:  illegal base64 data at input byte 20
+ERROR: 2025/08/30 22:30:37 Error on supplied calculation value:  illegal base64 data at input byte 20
+ERROR: 2025/08/30 22:30:37 Error on supplied calculation value:  illegal base64 data at input byte 20
+ERROR: 2025/08/30 22:30:37 Error on supplied calculation value:  illegal base64 data at input byte 20
+ERROR: 2025/08/30 22:30:37 Error on supplied calculation value:  illegal base64 data at input byte 20
+ERROR: 2025/08/30 22:30:37 Error on supplied calculation value:  illegal base64 data at input byte 20
+ERROR: 2025/08/30 22:30:37 Error on supplied calculation value:  illegal base64 data at input byte 20
+ERROR: 2025/08/30 22:30:37 Error on supplied calculation value:  illegal base64 data at input byte 20
+WARNING: 2025/08/30 22:31:17 No PostgreSQL record found for request: 4olvA3cKxTu/Bn2aR08mOpGFOgz/cmAP2dXrzds4G5c= (false)
+WARNING: 2025/08/30 22:31:17 No PostgreSQL record found for request: J9wepJjpK2aP1ckAoh+XaDvOvFulRmnuxHnr5L9+UWA= (false)
+WARNING: 2025/08/30 22:31:17 No PostgreSQL record found for request: sMTzcdZuQc2Xhxj0lBlfahunAdtscJpHNqVjEmS7vNg= (false)
+WARNING: 2025/08/30 22:31:17 No PostgreSQL record found for request: 2PF8GXZ+5ZmEKfnUywzsS90Gq62t/Vpyvni4dCQpKQo= (false)
+WARNING: 2025/08/30 22:31:17 No PostgreSQL record found for request: k/6ly/+hWSTvVzXS+9+sikus04KsAROCsKvjzPAPXEw= (false)
+WARNING: 2025/08/30 22:31:17 No PostgreSQL record found for request: Zg9jaVAz5RMpik9YS9aw1COeiBkZbUyl44WF925pxYA= (false)
+WARNING: 2025/08/30 22:31:17 No PostgreSQL record found for request: q+0l3TEP0V0lcQotaIXoJLCH3F//meMnMUZ+Wln94KU= (false)
+WARNING: 2025/08/30 22:31:17 No PostgreSQL record found for request: iFZT/QsGBDfo7y6+ZgXrRPWJHvEfhwku1tb8pRhDYtY= (false)
+WARNING: 2025/08/30 22:31:17 No PostgreSQL record found for request: oOtGkoOtyXY8wRV1Ds9LtUGGf6r51AN2Xx/aazF2Q8s= (false)
+INFO: 2025/08/30 22:31:17 Database cache miss:  J9wepJjpK2aP1ckAoh+XaDvOvFulRmnuxHnr5L9+UWA=
+INFO: 2025/08/30 22:31:17 Database cache miss:  2PF8GXZ+5ZmEKfnUywzsS90Gq62t/Vpyvni4dCQpKQo=
+WARNING: 2025/08/30 22:31:17 No PostgreSQL record found for request: 4hvW9zGJlHRr10FnThQ9XFy+od3yQCrJ3aVk76oCHh4= (false)
+WARNING: 2025/08/30 22:31:17 No PostgreSQL record found for request: YIrKH67/zliiMfuKrTtQAnTMrlS9nvVMuZyO5ebD0l0= (false)
+INFO: 2025/08/30 22:31:17 Database cache miss:  k/6ly/+hWSTvVzXS+9+sikus04KsAROCsKvjzPAPXEw=
+WARNING: 2025/08/30 22:31:17 No PostgreSQL record found for request: O3F0e/CRVQB3265UO6bZJ2ZBVmaq20FzxoxPtQtDVl4= (false)
+WARNING: 2025/08/30 22:31:17 No PostgreSQL record found for request: YCxVwSL4DmPJeIojaDlH0T785ISEsT3zCMRBPPvSOXw= (false)
+WARNING: 2025/08/30 22:31:17 No PostgreSQL record found for request: /aZLxqWioamSavw/Eyt6kKRfaWLufpT3CtdjxBXeDEQ= (false)
+INFO: 2025/08/30 22:31:17 Database cache miss:  4olvA3cKxTu/Bn2aR08mOpGFOgz/cmAP2dXrzds4G5c=
+INFO: 2025/08/30 22:31:17 Database cache miss:  iFZT/QsGBDfo7y6+ZgXrRPWJHvEfhwku1tb8pRhDYtY=
+WARNING: 2025/08/30 22:31:17 No PostgreSQL record found for request: uHunLCDGu0uw+LsBaqvJqTE2T4odlOSHiKObj8FpbfE= (false)
+WARNING: 2025/08/30 22:31:17 No PostgreSQL record found for request: btvTGNnak7QozYRZ/zz7OAvNiw8G5A7g7qg9MeUBRFM= (false)
+WARNING: 2025/08/30 22:31:17 No PostgreSQL record found for request: GpDAPL/f8aC5zH3qI68djXDVfiNqnMzDSoGilEUBhRE= (false)
+INFO: 2025/08/30 22:31:17 Database cache miss:  Zg9jaVAz5RMpik9YS9aw1COeiBkZbUyl44WF925pxYA=
+WARNING: 2025/08/30 22:31:17 No PostgreSQL record found for request: B/66qIhtJlUn2nQJALQE3LqBDjEu2u39TT/fHpfNWTI= (false)
+INFO: 2025/08/30 22:31:17 Database cache miss:  sMTzcdZuQc2Xhxj0lBlfahunAdtscJpHNqVjEmS7vNg=
+INFO: 2025/08/30 22:31:17 Database cache miss:  q+0l3TEP0V0lcQotaIXoJLCH3F//meMnMUZ+Wln94KU=
+INFO: 2025/08/30 22:31:17 Database cache miss:  YIrKH67/zliiMfuKrTtQAnTMrlS9nvVMuZyO5ebD0l0=
+INFO: 2025/08/30 22:31:17 Database cache miss:  YCxVwSL4DmPJeIojaDlH0T785ISEsT3zCMRBPPvSOXw=
+WARNING: 2025/08/30 22:31:17 No PostgreSQL record found for request: dbVTTaWv5DsE5nY3KcogwQmYjGkA/9QeuiwJ3iZafmY= (false)
+WARNING: 2025/08/30 22:31:17 No PostgreSQL record found for request: 6Jn+83VGqj0eB0MEAJFfo/LxXDqjfnUHC4wqR3voIb8= (false)
+INFO: 2025/08/30 22:31:17 Database cache miss:  GpDAPL/f8aC5zH3qI68djXDVfiNqnMzDSoGilEUBhRE=
+INFO: 2025/08/30 22:31:17 Database cache miss:  oOtGkoOtyXY8wRV1Ds9LtUGGf6r51AN2Xx/aazF2Q8s=
+INFO: 2025/08/30 22:31:17 Database cache miss:  uHunLCDGu0uw+LsBaqvJqTE2T4odlOSHiKObj8FpbfE=
+INFO: 2025/08/30 22:31:17 Database cache miss:  btvTGNnak7QozYRZ/zz7OAvNiw8G5A7g7qg9MeUBRFM=
+INFO: 2025/08/30 22:31:17 Database cache miss:  4hvW9zGJlHRr10FnThQ9XFy+od3yQCrJ3aVk76oCHh4=
+INFO: 2025/08/30 22:31:17 Database cache miss:  O3F0e/CRVQB3265UO6bZJ2ZBVmaq20FzxoxPtQtDVl4=
+INFO: 2025/08/30 22:31:17 Database cache miss:  /aZLxqWioamSavw/Eyt6kKRfaWLufpT3CtdjxBXeDEQ=
+INFO: 2025/08/30 22:31:17 Database cache miss:  B/66qIhtJlUn2nQJALQE3LqBDjEu2u39TT/fHpfNWTI=
+INFO: 2025/08/30 22:31:17 Database cache miss:  dbVTTaWv5DsE5nY3KcogwQmYjGkA/9QeuiwJ3iZafmY=
+INFO: 2025/08/30 22:31:17 Database cache miss:  6Jn+83VGqj0eB0MEAJFfo/LxXDqjfnUHC4wqR3voIb8=
+INFO: 2025/08/30 22:31:21 Got result in  4.025308421
+WARNING: 2025/08/30 22:31:21 No PostgreSQL record found for request: 2De7OSGbS6VlUiYmJcVxFRCDuZdzCmlbqpcKkd+xFVg= (false)
+INFO: 2025/08/30 22:31:21 Database cache miss:  2De7OSGbS6VlUiYmJcVxFRCDuZdzCmlbqpcKkd+xFVg=
+WARNING: 2025/08/30 22:31:22 No PostgreSQL record found for request: ywo/FL7u20RhNy3DmjiFCQcPPp0vxz5eCHZVVGLN/wA= (false)
+WARNING: 2025/08/30 22:31:22 No PostgreSQL record found for request: XpeEYv7ubNCMfarASSwcR72gFEGXs3NcUd92DOatoJs= (false)
+WARNING: 2025/08/30 22:31:22 No PostgreSQL record found for request: m+5wOiBYqOTq/YgqX+JineN6yhOXBatE2d5uwSfLN5g= (false)
+WARNING: 2025/08/30 22:31:22 No PostgreSQL record found for request: WV/flgIafDmQFpD2nJ/Q6Itw2BboaVB7hJCytUwct1E= (false)
+WARNING: 2025/08/30 22:31:22 No PostgreSQL record found for request: sA4UMnEQL03c5vcIcHPXu0IRJfTQOPRzf9CqpYSHidA= (false)
+INFO: 2025/08/30 22:31:22 Database cache miss:  ywo/FL7u20RhNy3DmjiFCQcPPp0vxz5eCHZVVGLN/wA=
+WARNING: 2025/08/30 22:31:22 No PostgreSQL record found for request: XlI8CnOfNaw/mh4KwIy7IIuA7prHvXUcOfcaIttDbwE= (false)
+INFO: 2025/08/30 22:31:22 Database cache miss:  m+5wOiBYqOTq/YgqX+JineN6yhOXBatE2d5uwSfLN5g=
+WARNING: 2025/08/30 22:31:22 No PostgreSQL record found for request: 13bQKP6hS6pNOguSosFE1pD6i7aXLwtzCW2ha2qO1Nk= (false)
+WARNING: 2025/08/30 22:31:22 No PostgreSQL record found for request: oUfuRW1fYDSHvdzUaKA+I/cwdFyymmMJJW0Jy5T5SD8= (false)
+WARNING: 2025/08/30 22:31:22 No PostgreSQL record found for request: Y5E0Wfd5910kkQGYAej3udk3XuJYzcHrWczowkTqtZ4= (false)
+WARNING: 2025/08/30 22:31:22 No PostgreSQL record found for request: 7ykQElNb6UUA861gKRja6UbPgcNn1+iv5RwyYAo5Yn8= (false)
+WARNING: 2025/08/30 22:31:22 No PostgreSQL record found for request: XyizaGL8EIwRiHqhlLPYZPp4O6n0yBdnnC8pxjOFnII= (false)
+INFO: 2025/08/30 22:31:22 Database cache miss:  WV/flgIafDmQFpD2nJ/Q6Itw2BboaVB7hJCytUwct1E=
+WARNING: 2025/08/30 22:31:22 No PostgreSQL record found for request: QqwW5D/rC7eLJAW6G9ofFSqG4zv98M6wJ0Qc8tIXZGI= (false)
+INFO: 2025/08/30 22:31:22 Database cache miss:  XpeEYv7ubNCMfarASSwcR72gFEGXs3NcUd92DOatoJs=
+WARNING: 2025/08/30 22:31:22 No PostgreSQL record found for request: nFCUyZ+JhooDTuP2e9+/P0zwlCEt3yrH/kRAfG2m1zQ= (false)
+INFO: 2025/08/30 22:31:22 Database cache miss:  XlI8CnOfNaw/mh4KwIy7IIuA7prHvXUcOfcaIttDbwE=
+WARNING: 2025/08/30 22:31:22 No PostgreSQL record found for request: //nOguLT4wwT1Qk58P6L2DM0A4C/n9gHmMusTIf/eBw= (false)
+WARNING: 2025/08/30 22:31:22 No PostgreSQL record found for request: 8pPBLJ2mEyhqD0KWrlNrRdZ7FCzIroceh5r0Bgn14is= (false)
+WARNING: 2025/08/30 22:31:22 No PostgreSQL record found for request: +P/yaOLEpUNERm9JGTselhRG3qFZVmu2QvjrgMNWokA= (false)
+WARNING: 2025/08/30 22:31:22 No PostgreSQL record found for request: npOZUA7jQouRqaS7BoX6Mnd1gZpal0qKHBl3K+VdorY= (false)
+WARNING: 2025/08/30 22:31:22 No PostgreSQL record found for request: nz8Kc5Fh8djFEYE+SkhXBArAUTxfQmJzXU/tykXRaNM= (false)
+INFO: 2025/08/30 22:31:22 Database cache miss:  oUfuRW1fYDSHvdzUaKA+I/cwdFyymmMJJW0Jy5T5SD8=
+WARNING: 2025/08/30 22:31:22 No PostgreSQL record found for request: 0sMX5fAA+xh+HvL4LrWBM9rGDAwGGqUMe7RpzJ32d3E= (false)
+INFO: 2025/08/30 22:31:22 Database cache miss:  Y5E0Wfd5910kkQGYAej3udk3XuJYzcHrWczowkTqtZ4=
+INFO: 2025/08/30 22:31:22 Database cache miss:  sA4UMnEQL03c5vcIcHPXu0IRJfTQOPRzf9CqpYSHidA=
+INFO: 2025/08/30 22:31:22 Database cache miss:  7ykQElNb6UUA861gKRja6UbPgcNn1+iv5RwyYAo5Yn8=
+INFO: 2025/08/30 22:31:22 Database cache miss:  XyizaGL8EIwRiHqhlLPYZPp4O6n0yBdnnC8pxjOFnII=
+INFO: 2025/08/30 22:31:22 Database cache miss:  QqwW5D/rC7eLJAW6G9ofFSqG4zv98M6wJ0Qc8tIXZGI=
+INFO: 2025/08/30 22:31:22 Database cache miss:  nFCUyZ+JhooDTuP2e9+/P0zwlCEt3yrH/kRAfG2m1zQ=
+INFO: 2025/08/30 22:31:22 Database cache miss:  13bQKP6hS6pNOguSosFE1pD6i7aXLwtzCW2ha2qO1Nk=
+INFO: 2025/08/30 22:31:22 Database cache miss:  npOZUA7jQouRqaS7BoX6Mnd1gZpal0qKHBl3K+VdorY=
+INFO: 2025/08/30 22:31:22 Database cache miss:  8pPBLJ2mEyhqD0KWrlNrRdZ7FCzIroceh5r0Bgn14is=
+INFO: 2025/08/30 22:31:22 Database cache miss:  +P/yaOLEpUNERm9JGTselhRG3qFZVmu2QvjrgMNWokA=
+INFO: 2025/08/30 22:31:22 Database cache miss:  //nOguLT4wwT1Qk58P6L2DM0A4C/n9gHmMusTIf/eBw=
+INFO: 2025/08/30 22:31:22 Database cache miss:  nz8Kc5Fh8djFEYE+SkhXBArAUTxfQmJzXU/tykXRaNM=
+INFO: 2025/08/30 22:31:22 Database cache miss:  0sMX5fAA+xh+HvL4LrWBM9rGDAwGGqUMe7RpzJ32d3E=
+INFO: 2025/08/30 22:31:25 Got result in  8.024695294
+WARNING: 2025/08/30 22:31:26 No PostgreSQL record found for request: xeagGoQAH2S7LfV168Yt/IMgSQqJklYP1t/wgSsANyE= (false)
+INFO: 2025/08/30 22:31:26 Database cache miss:  xeagGoQAH2S7LfV168Yt/IMgSQqJklYP1t/wgSsANyE=
+WARNING: 2025/08/30 22:31:27 No PostgreSQL record found for request: hwZANn8g9gQb9YVtju/ZyAo002AIpDtnCZvkUILv4Kc= (false)
+WARNING: 2025/08/30 22:31:27 No PostgreSQL record found for request: PQJhWKbMHtYPfr1ZZ54zGHyV9hP120C0st8i7I/Zqqw= (false)
+WARNING: 2025/08/30 22:31:27 No PostgreSQL record found for request: q2CuQBEgorSsHDny9nSwebW7Q5uj9cdgG69oT1n2WYw= (false)
+WARNING: 2025/08/30 22:31:27 No PostgreSQL record found for request: l0fOuu+SFKiby34aqIE4jpjC4BxihC8L7+3nxjqpFXE= (false)
+WARNING: 2025/08/30 22:31:27 No PostgreSQL record found for request: 86L3JiYql8sVxF9SvtmXH2oFkrTGPI4lFvUGL+z0yy4= (false)
+WARNING: 2025/08/30 22:31:27 No PostgreSQL record found for request: 9znSDFoCHHCaA1KxN08Gomt9seVSq3YuBtdYXPoJoME= (false)
+INFO: 2025/08/30 22:31:27 Database cache miss:  hwZANn8g9gQb9YVtju/ZyAo002AIpDtnCZvkUILv4Kc=
+INFO: 2025/08/30 22:31:27 Database cache miss:  PQJhWKbMHtYPfr1ZZ54zGHyV9hP120C0st8i7I/Zqqw=
+WARNING: 2025/08/30 22:31:27 No PostgreSQL record found for request: qtWH8VDYoSS7KDYrAh2IOJ/pnLyNfrhVMFM0qDrQ5gI= (false)
+WARNING: 2025/08/30 22:31:27 No PostgreSQL record found for request: 3ClsyzsNxFbW1vhEN7WagGP4ZleR/pKpHuubv3zSaHA= (false)
+WARNING: 2025/08/30 22:31:27 No PostgreSQL record found for request: tK0VTgvA0FBpcK6LWYeFxvyRdlpZ+QNq78FTfm1DvWI= (false)
+WARNING: 2025/08/30 22:31:27 No PostgreSQL record found for request: 0yfLPHak6ftG4r8njUg+ZDlHHfVx8TX5A80GGCruWVo= (false)
+WARNING: 2025/08/30 22:31:27 No PostgreSQL record found for request: VWg8trBTpzJB1KFFhgw7zdf0wZ7xSn+0vfbOjJdnzpc= (false)
+INFO: 2025/08/30 22:31:27 Database cache miss:  86L3JiYql8sVxF9SvtmXH2oFkrTGPI4lFvUGL+z0yy4=
+INFO: 2025/08/30 22:31:27 Database cache miss:  l0fOuu+SFKiby34aqIE4jpjC4BxihC8L7+3nxjqpFXE=
+WARNING: 2025/08/30 22:31:27 No PostgreSQL record found for request: SjRlp/CMgBDuKMaSLcoJwRAAE+cdiq1SejtZJ96mK6c= (false)
+INFO: 2025/08/30 22:31:27 Database cache miss:  q2CuQBEgorSsHDny9nSwebW7Q5uj9cdgG69oT1n2WYw=
+INFO: 2025/08/30 22:31:27 Database cache miss:  qtWH8VDYoSS7KDYrAh2IOJ/pnLyNfrhVMFM0qDrQ5gI=
+WARNING: 2025/08/30 22:31:27 No PostgreSQL record found for request: zFrSTzm0L48EspoITgIgoguI/NC8JQg1ANdFexbmIBA= (false)
+WARNING: 2025/08/30 22:31:27 No PostgreSQL record found for request: EHzW5HltVebWnSBiv0jsDTNzht7OT+IfMiMRGUCJYL0= (false)
+INFO: 2025/08/30 22:31:27 Database cache miss:  3ClsyzsNxFbW1vhEN7WagGP4ZleR/pKpHuubv3zSaHA=
+INFO: 2025/08/30 22:31:27 Database cache miss:  VWg8trBTpzJB1KFFhgw7zdf0wZ7xSn+0vfbOjJdnzpc=
+INFO: 2025/08/30 22:31:27 Database cache miss:  9znSDFoCHHCaA1KxN08Gomt9seVSq3YuBtdYXPoJoME=
+WARNING: 2025/08/30 22:31:27 No PostgreSQL record found for request: JSZAuRSQnhLROML4mFfHpzfRfQnaqgsLnQuyX0JGMNw= (false)
+INFO: 2025/08/30 22:31:27 Database cache miss:  0yfLPHak6ftG4r8njUg+ZDlHHfVx8TX5A80GGCruWVo=
+WARNING: 2025/08/30 22:31:27 No PostgreSQL record found for request: hqF5OeIOdvdRzhr6n87fj6G/XfpxW2HtryGBlogfHWc= (false)
+WARNING: 2025/08/30 22:31:27 No PostgreSQL record found for request: 02NT1a9peKiwbq/Brlg+eGAAv0w+lDvo90RaMt/kryU= (false)
+WARNING: 2025/08/30 22:31:27 No PostgreSQL record found for request: tRJfVepM+bA52e+Tqb4ImZACN34q6Tj8e/zvgsjwNy0= (false)
+INFO: 2025/08/30 22:31:27 Database cache miss:  SjRlp/CMgBDuKMaSLcoJwRAAE+cdiq1SejtZJ96mK6c=
+INFO: 2025/08/30 22:31:27 Database cache miss:  tK0VTgvA0FBpcK6LWYeFxvyRdlpZ+QNq78FTfm1DvWI=
+INFO: 2025/08/30 22:31:27 Database cache miss:  zFrSTzm0L48EspoITgIgoguI/NC8JQg1ANdFexbmIBA=
+WARNING: 2025/08/30 22:31:27 No PostgreSQL record found for request: +DGdOq63JBEMvVlmpsIqhacHrW4bR2TEIqs+YbLEd1k= (false)
+INFO: 2025/08/30 22:31:27 Database cache miss:  EHzW5HltVebWnSBiv0jsDTNzht7OT+IfMiMRGUCJYL0=
+INFO: 2025/08/30 22:31:27 Database cache miss:  hqF5OeIOdvdRzhr6n87fj6G/XfpxW2HtryGBlogfHWc=
+INFO: 2025/08/30 22:31:27 Database cache miss:  tRJfVepM+bA52e+Tqb4ImZACN34q6Tj8e/zvgsjwNy0=
+INFO: 2025/08/30 22:31:27 Database cache miss:  02NT1a9peKiwbq/Brlg+eGAAv0w+lDvo90RaMt/kryU=
+INFO: 2025/08/30 22:31:27 Database cache miss:  JSZAuRSQnhLROML4mFfHpzfRfQnaqgsLnQuyX0JGMNw=
+INFO: 2025/08/30 22:31:27 Database cache miss:  +DGdOq63JBEMvVlmpsIqhacHrW4bR2TEIqs+YbLEd1k=
+INFO: 2025/08/30 22:31:29 Got result in  12.021668368
+WARNING: 2025/08/30 22:31:31 No PostgreSQL record found for request: 7ACRvZCgjGUJlRSWlJUuI4/cHk5nu4Gd0FXvq25OFfA= (false)
+INFO: 2025/08/30 22:31:31 Database cache miss:  7ACRvZCgjGUJlRSWlJUuI4/cHk5nu4Gd0FXvq25OFfA=
+WARNING: 2025/08/30 22:31:32 No PostgreSQL record found for request: h3lcYx4rIiLD0md6w4MQhQFsOCcn9cDuqoNkSM2+No4= (false)
+WARNING: 2025/08/30 22:31:32 No PostgreSQL record found for request: OHcAvh32tK6fH4mNwrVJ0sFH93tcPfKsPlEyAM18LdA= (false)
+WARNING: 2025/08/30 22:31:32 No PostgreSQL record found for request: CvGeWyTOjoPeSY0pQTieaENnX14nc3+vekaolsAsGmg= (false)
+WARNING: 2025/08/30 22:31:32 No PostgreSQL record found for request: eHJnNAbovgwli6fQL3a0kTuYqK1aqWuol03AoJqzNhA= (false)
+WARNING: 2025/08/30 22:31:32 No PostgreSQL record found for request: n2bnd0MZQAZlUvLgffHter6Ervj2XBCW9QuwWlhRojg= (false)
+WARNING: 2025/08/30 22:31:32 No PostgreSQL record found for request: 28gXvll4aamHJYD58gmIwtGA7Of7fjUP2id6h62LJv0= (false)
+INFO: 2025/08/30 22:31:32 Database cache miss:  h3lcYx4rIiLD0md6w4MQhQFsOCcn9cDuqoNkSM2+No4=
+INFO: 2025/08/30 22:31:32 Database cache miss:  OHcAvh32tK6fH4mNwrVJ0sFH93tcPfKsPlEyAM18LdA=
+INFO: 2025/08/30 22:31:32 Database cache miss:  n2bnd0MZQAZlUvLgffHter6Ervj2XBCW9QuwWlhRojg=
+WARNING: 2025/08/30 22:31:32 No PostgreSQL record found for request: J5FYEYU070bAv5CEiGxytN5Iy7E6N9gPkU6gtrtee0o= (false)
+WARNING: 2025/08/30 22:31:32 No PostgreSQL record found for request: dR6YAzSoxQNXrCTw5YNeqMbcg+w22B9dfCk1fbBbIN8= (false)
+WARNING: 2025/08/30 22:31:32 No PostgreSQL record found for request: Yu6a6p0sbyCKSe8iAYAzpuRzI8R3MuN43GpCHz+wdYA= (false)
+WARNING: 2025/08/30 22:31:32 No PostgreSQL record found for request: kEAhB2alcJJ+3kdjkbx/pPNaowxJNH++2EyVrET3dpw= (false)
+INFO: 2025/08/30 22:31:32 Database cache miss:  eHJnNAbovgwli6fQL3a0kTuYqK1aqWuol03AoJqzNhA=
+WARNING: 2025/08/30 22:31:32 No PostgreSQL record found for request: VU5KBdlxOuGG1ocdK9QMBZ1duMVFnLE8nHD74h8Hd44= (false)
+INFO: 2025/08/30 22:31:32 Database cache miss:  CvGeWyTOjoPeSY0pQTieaENnX14nc3+vekaolsAsGmg=
+WARNING: 2025/08/30 22:31:32 No PostgreSQL record found for request: 4Ow0acdTO0GmayQfwUuP7iSq4BeX4H176HgYdh9xQ7o= (false)
+INFO: 2025/08/30 22:31:32 Database cache miss:  28gXvll4aamHJYD58gmIwtGA7Of7fjUP2id6h62LJv0=
+INFO: 2025/08/30 22:31:32 Database cache miss:  J5FYEYU070bAv5CEiGxytN5Iy7E6N9gPkU6gtrtee0o=
+WARNING: 2025/08/30 22:31:32 No PostgreSQL record found for request: psJhnY7yBoCCePRdLsoWF8gUEpL0dHCPjddW6M/G/v0= (false)
+INFO: 2025/08/30 22:31:32 Database cache miss:  dR6YAzSoxQNXrCTw5YNeqMbcg+w22B9dfCk1fbBbIN8=
+INFO: 2025/08/30 22:31:32 Database cache miss:  VU5KBdlxOuGG1ocdK9QMBZ1duMVFnLE8nHD74h8Hd44=
+INFO: 2025/08/30 22:31:32 Database cache miss:  kEAhB2alcJJ+3kdjkbx/pPNaowxJNH++2EyVrET3dpw=
+WARNING: 2025/08/30 22:31:32 No PostgreSQL record found for request: o2QON/atCXuCQH6Oqq1N8zLF8iYKfzSJiNqy7q+sNuA= (false)
+WARNING: 2025/08/30 22:31:32 No PostgreSQL record found for request: Yb1EGPYbQSb8nhLCqydQBL8smbuwMsPo5m7jHmGm6KQ= (false)
+WARNING: 2025/08/30 22:31:32 No PostgreSQL record found for request: EPM/aw0g9oOHM1LuVuHqJ/yFmy1BTqoOJ434K4I9LnU= (false)
+WARNING: 2025/08/30 22:31:32 No PostgreSQL record found for request: vOOmtsU92shyYtt/9M+pJrG/dW09LphaKZ0w2DSC2iE= (false)
+WARNING: 2025/08/30 22:31:32 No PostgreSQL record found for request: TqyUB5QlJpqJWJELLtFOsY/pPPJkjuCd/MfzRkGELl8= (false)
+WARNING: 2025/08/30 22:31:32 No PostgreSQL record found for request: fPOFZO8ZALGpO51qmq2V/+HlGmJgSHmWP2OoHiM5V+o= (false)
+INFO: 2025/08/30 22:31:32 Database cache miss:  psJhnY7yBoCCePRdLsoWF8gUEpL0dHCPjddW6M/G/v0=
+INFO: 2025/08/30 22:31:32 Database cache miss:  4Ow0acdTO0GmayQfwUuP7iSq4BeX4H176HgYdh9xQ7o=
+INFO: 2025/08/30 22:31:32 Database cache miss:  Yu6a6p0sbyCKSe8iAYAzpuRzI8R3MuN43GpCHz+wdYA=
+INFO: 2025/08/30 22:31:32 Database cache miss:  EPM/aw0g9oOHM1LuVuHqJ/yFmy1BTqoOJ434K4I9LnU=
+INFO: 2025/08/30 22:31:32 Database cache miss:  o2QON/atCXuCQH6Oqq1N8zLF8iYKfzSJiNqy7q+sNuA=
+INFO: 2025/08/30 22:31:32 Database cache miss:  Yb1EGPYbQSb8nhLCqydQBL8smbuwMsPo5m7jHmGm6KQ=
+INFO: 2025/08/30 22:31:32 Database cache miss:  vOOmtsU92shyYtt/9M+pJrG/dW09LphaKZ0w2DSC2iE=
+INFO: 2025/08/30 22:31:32 Database cache miss:  fPOFZO8ZALGpO51qmq2V/+HlGmJgSHmWP2OoHiM5V+o=
+INFO: 2025/08/30 22:31:32 Database cache miss:  TqyUB5QlJpqJWJELLtFOsY/pPPJkjuCd/MfzRkGELl8=
+WARNING: 2025/08/30 22:31:32 No PostgreSQL record found for request: /sIvn/b3XvHF6bnV+WD7qEUdFeBLlhtMsKTZj7ooPYE= (false)
+INFO: 2025/08/30 22:31:32 Database cache miss:  /sIvn/b3XvHF6bnV+WD7qEUdFeBLlhtMsKTZj7ooPYE=
+WARNING: 2025/08/30 22:31:32 No PostgreSQL record found for request: V3dELd+rUsHQk3Op//UaUmqeXNT7cZlS0CjuIvZeyaY= (false)
+INFO: 2025/08/30 22:31:32 Database cache miss:  V3dELd+rUsHQk3Op//UaUmqeXNT7cZlS0CjuIvZeyaY=
+WARNING: 2025/08/30 22:31:32 No PostgreSQL record found for request: PyrmoXTOAuOHJsNczE4EMnCKXi8rJO/2t/+G3JF7dzk= (false)
+INFO: 2025/08/30 22:31:32 Database cache miss:  PyrmoXTOAuOHJsNczE4EMnCKXi8rJO/2t/+G3JF7dzk=
+WARNING: 2025/08/30 22:31:32 No PostgreSQL record found for request: RQgIWhp9FtFqA5NLhSwGClwwK0p+hDg8vUit9+dFvuw= (false)
+INFO: 2025/08/30 22:31:32 Database cache miss:  RQgIWhp9FtFqA5NLhSwGClwwK0p+hDg8vUit9+dFvuw=
+WARNING: 2025/08/30 22:31:32 No PostgreSQL record found for request: t/vLnlz6enHC6KSAku4mW4oO09MNQUvGwfxHtkaoxhs= (false)
+INFO: 2025/08/30 22:31:32 Database cache miss:  t/vLnlz6enHC6KSAku4mW4oO09MNQUvGwfxHtkaoxhs=
+WARNING: 2025/08/30 22:31:32 No PostgreSQL record found for request: idRJRA8X4V8AcRSjAwF6hB0iAOd3R2zg7efhROGyyjY= (false)
+INFO: 2025/08/30 22:31:32 Database cache miss:  idRJRA8X4V8AcRSjAwF6hB0iAOd3R2zg7efhROGyyjY=
+WARNING: 2025/08/30 22:31:32 No PostgreSQL record found for request: V7tYjxPQTqNs0EsjT4wyUgR1rN1zbzmtuCueUu0YboA= (false)
+INFO: 2025/08/30 22:31:32 Database cache miss:  V7tYjxPQTqNs0EsjT4wyUgR1rN1zbzmtuCueUu0YboA=
+WARNING: 2025/08/30 22:31:32 No PostgreSQL record found for request: 4H69FXHSLYgc9VmnL35yscsMIg6yYYU0MHrG8pQZjnE= (false)
+INFO: 2025/08/30 22:31:32 Database cache miss:  4H69FXHSLYgc9VmnL35yscsMIg6yYYU0MHrG8pQZjnE=
+WARNING: 2025/08/30 22:31:32 No PostgreSQL record found for request: V+7EigAs28SeP/srqi4C1PWYB0W+dpWpiokSU4UE4C8= (false)
+INFO: 2025/08/30 22:31:32 Database cache miss:  V+7EigAs28SeP/srqi4C1PWYB0W+dpWpiokSU4UE4C8=
+WARNING: 2025/08/30 22:31:32 No PostgreSQL record found for request: xn/kjxBqCMo8/jnzBHgOl66sB0iOOGoZVgQokr4K97I= (false)
+INFO: 2025/08/30 22:31:32 Database cache miss:  xn/kjxBqCMo8/jnzBHgOl66sB0iOOGoZVgQokr4K97I=
+WARNING: 2025/08/30 22:31:32 No PostgreSQL record found for request: KVnte0/I5YJJmuUAKSbZNj81Ep//plD0vg5Ulh9h8Cg= (false)
+INFO: 2025/08/30 22:31:32 Database cache miss:  KVnte0/I5YJJmuUAKSbZNj81Ep//plD0vg5Ulh9h8Cg=
+WARNING: 2025/08/30 22:31:32 No PostgreSQL record found for request: PUB11G8qgknWTTlFNmx6tVeaOBMbZMlNoo7Wyw1HP1w= (false)
+INFO: 2025/08/30 22:31:32 Database cache miss:  PUB11G8qgknWTTlFNmx6tVeaOBMbZMlNoo7Wyw1HP1w=
+WARNING: 2025/08/30 22:31:32 No PostgreSQL record found for request: mNOVWBE7t04Z2tQvEnpQ0zz8X3LxugQFH9qJOhxLGa8= (false)
+INFO: 2025/08/30 22:31:32 Database cache miss:  mNOVWBE7t04Z2tQvEnpQ0zz8X3LxugQFH9qJOhxLGa8=
+WARNING: 2025/08/30 22:31:32 No PostgreSQL record found for request: fdMgiK4yCveIvQN7tcN7pr3dPL/AYgwTxeX8KnyxEeI= (false)
+INFO: 2025/08/30 22:31:32 Database cache miss:  fdMgiK4yCveIvQN7tcN7pr3dPL/AYgwTxeX8KnyxEeI=
+WARNING: 2025/08/30 22:31:32 No PostgreSQL record found for request: PvFOeHjQS8NovaQ6pKK4yDwa30Fmpi1/m3f2kACelE0= (false)
+INFO: 2025/08/30 22:31:32 Database cache miss:  PvFOeHjQS8NovaQ6pKK4yDwa30Fmpi1/m3f2kACelE0=
+WARNING: 2025/08/30 22:31:32 No PostgreSQL record found for request: T2OiesOeqEi6/HKaCrnrPWq+Ho7cL/ZwacW683cUZVQ= (false)
+INFO: 2025/08/30 22:31:32 Database cache miss:  T2OiesOeqEi6/HKaCrnrPWq+Ho7cL/ZwacW683cUZVQ=
+WARNING: 2025/08/30 22:31:32 No PostgreSQL record found for request: OBH6KlZOMhHrEB+fo5NnlerX9WySG39Rh0AuXuT1mKk= (false)
+INFO: 2025/08/30 22:31:32 Database cache miss:  OBH6KlZOMhHrEB+fo5NnlerX9WySG39Rh0AuXuT1mKk=
+WARNING: 2025/08/30 22:31:32 No PostgreSQL record found for request: Fj6Bf47GThltF//DdAuS438Lglm3nGKMUEOE7iLD7KU= (false)
+INFO: 2025/08/30 22:31:32 Database cache miss:  Fj6Bf47GThltF//DdAuS438Lglm3nGKMUEOE7iLD7KU=
+WARNING: 2025/08/30 22:31:32 No PostgreSQL record found for request: YvC+RV6TW8zbelde7+NZqxnCnM4OISo77iKMS2Gi8nk= (false)
+INFO: 2025/08/30 22:31:32 Database cache miss:  YvC+RV6TW8zbelde7+NZqxnCnM4OISo77iKMS2Gi8nk=
+WARNING: 2025/08/30 22:31:32 No PostgreSQL record found for request: Z4eZcam+fXRFP8J/ZyHJqi1Za7L5Fki5IzAydSVWwcc= (false)
+INFO: 2025/08/30 22:31:32 Database cache miss:  Z4eZcam+fXRFP8J/ZyHJqi1Za7L5Fki5IzAydSVWwcc=
+WARNING: 2025/08/30 22:31:32 No PostgreSQL record found for request: uAsQ+mm49ovMTs1M2KJu6Z2QFn9en4UCKvIc4rp10wc= (false)
+INFO: 2025/08/30 22:31:32 Database cache miss:  uAsQ+mm49ovMTs1M2KJu6Z2QFn9en4UCKvIc4rp10wc=
+WARNING: 2025/08/30 22:31:32 No PostgreSQL record found for request: ki7UGk21SlMipfzN8ZvRZ+C1X7cErSEYiyA21Jy2IbQ= (false)
+INFO: 2025/08/30 22:31:32 Database cache miss:  ki7UGk21SlMipfzN8ZvRZ+C1X7cErSEYiyA21Jy2IbQ=
+WARNING: 2025/08/30 22:31:32 No PostgreSQL record found for request: BMYLg0O1H9Y8JgOZcA2sTX2e6ZHwWBY7WeOauyp26KY= (false)
+INFO: 2025/08/30 22:31:32 Database cache miss:  BMYLg0O1H9Y8JgOZcA2sTX2e6ZHwWBY7WeOauyp26KY=
+WARNING: 2025/08/30 22:31:32 No PostgreSQL record found for request: I8uKfs2ICFBPT+Zjc91dTF31NwwwIzC1c1XW3SbzSVM= (false)
+INFO: 2025/08/30 22:31:32 Database cache miss:  I8uKfs2ICFBPT+Zjc91dTF31NwwwIzC1c1XW3SbzSVM=
+WARNING: 2025/08/30 22:31:32 No PostgreSQL record found for request: hn9Ur7sAJGLngLeyoAksyj2O63m7/AoXxhORuX5VkXg= (false)
+INFO: 2025/08/30 22:31:32 Database cache miss:  hn9Ur7sAJGLngLeyoAksyj2O63m7/AoXxhORuX5VkXg=
+WARNING: 2025/08/30 22:31:32 No PostgreSQL record found for request: /0Xud12PMOP0nQrWD77/SmrLXUm3M/Ts/hQPea49VIs= (false)
+INFO: 2025/08/30 22:31:32 Database cache miss:  /0Xud12PMOP0nQrWD77/SmrLXUm3M/Ts/hQPea49VIs=
+WARNING: 2025/08/30 22:31:32 No PostgreSQL record found for request: Dh94JBgbEe8BZhG5KPDeMuJbyS12s19G9qMGaGYBLFE= (false)
+INFO: 2025/08/30 22:31:32 Database cache miss:  Dh94JBgbEe8BZhG5KPDeMuJbyS12s19G9qMGaGYBLFE=
+WARNING: 2025/08/30 22:31:32 No PostgreSQL record found for request: Wp0XfhB4pJXWmRRtlRSK49EbsyHmQS0VZcIP3DDIzY0= (false)
+INFO: 2025/08/30 22:31:32 Database cache miss:  Wp0XfhB4pJXWmRRtlRSK49EbsyHmQS0VZcIP3DDIzY0=
+WARNING: 2025/08/30 22:31:32 No PostgreSQL record found for request: Vm+YmD9f/3m4etHs47+LQ9goKQv9fNaaxAk1YJ02vIk= (false)
+INFO: 2025/08/30 22:31:32 Database cache miss:  Vm+YmD9f/3m4etHs47+LQ9goKQv9fNaaxAk1YJ02vIk=
+WARNING: 2025/08/30 22:31:32 No PostgreSQL record found for request: Nw3MnrsoqjyRExbnBJVRcSd813URQ5igEAVBSCpHDLo= (false)
+INFO: 2025/08/30 22:31:32 Database cache miss:  Nw3MnrsoqjyRExbnBJVRcSd813URQ5igEAVBSCpHDLo=
+WARNING: 2025/08/30 22:31:32 No PostgreSQL record found for request: t5mEDI+z6aE48FRQrTE+giNxKa+ufysHEZtN6uMSJbk= (false)
+INFO: 2025/08/30 22:31:32 Database cache miss:  t5mEDI+z6aE48FRQrTE+giNxKa+ufysHEZtN6uMSJbk=
+WARNING: 2025/08/30 22:31:32 No PostgreSQL record found for request: Vbe0/M8UDsHsOkSa3y36nAWNDQqzgBbcUIaFVgOnbaU= (false)
+INFO: 2025/08/30 22:31:32 Database cache miss:  Vbe0/M8UDsHsOkSa3y36nAWNDQqzgBbcUIaFVgOnbaU=
+WARNING: 2025/08/30 22:31:32 No PostgreSQL record found for request: 33+xg6C5N5tloCDTHKorQJGmWigNLqKVJusgIfFIqtQ= (false)
+INFO: 2025/08/30 22:31:32 Database cache miss:  33+xg6C5N5tloCDTHKorQJGmWigNLqKVJusgIfFIqtQ=
+WARNING: 2025/08/30 22:31:32 No PostgreSQL record found for request: 3MuT8CbNJlH5bvjCe2BevKAllvLoGeh9+mCf946AQZ8= (false)
+INFO: 2025/08/30 22:31:32 Database cache miss:  3MuT8CbNJlH5bvjCe2BevKAllvLoGeh9+mCf946AQZ8=
+WARNING: 2025/08/30 22:31:32 No PostgreSQL record found for request: /mEoRjmLopcpcAGi+gsJNwA12z3DGoYJyL+kL7lwv78= (false)
+INFO: 2025/08/30 22:31:32 Database cache miss:  /mEoRjmLopcpcAGi+gsJNwA12z3DGoYJyL+kL7lwv78=
+WARNING: 2025/08/30 22:31:32 No PostgreSQL record found for request: uB/Fqu7hsiGDRh569PwoRdSxgO3VCcltAxDVydY6Wqc= (false)
+INFO: 2025/08/30 22:31:32 Database cache miss:  uB/Fqu7hsiGDRh569PwoRdSxgO3VCcltAxDVydY6Wqc=
+WARNING: 2025/08/30 22:31:32 No PostgreSQL record found for request: nDH11Ul1VAs3+X/N/7L1U9Q28zOO8IXDzHCDoDIsnLQ= (false)
+INFO: 2025/08/30 22:31:32 Database cache miss:  nDH11Ul1VAs3+X/N/7L1U9Q28zOO8IXDzHCDoDIsnLQ=
+WARNING: 2025/08/30 22:31:32 No PostgreSQL record found for request: RYZ8sPd3Rraj3R+jEi7widGjDDMPMXEOmXrALA+gJiI= (false)
+INFO: 2025/08/30 22:31:32 Database cache miss:  RYZ8sPd3Rraj3R+jEi7widGjDDMPMXEOmXrALA+gJiI=
+WARNING: 2025/08/30 22:31:32 No PostgreSQL record found for request: dxJi3rMDKVGjPuYhm9sZCs1llIpo1DegIObfjrFEtC8= (false)
+INFO: 2025/08/30 22:31:32 Database cache miss:  dxJi3rMDKVGjPuYhm9sZCs1llIpo1DegIObfjrFEtC8=
+WARNING: 2025/08/30 22:31:32 No PostgreSQL record found for request: +UWm2jONjv6ktDpRTNMbUA18e7zHhHHqgiFUCafa4fI= (false)
+INFO: 2025/08/30 22:31:32 Database cache miss:  +UWm2jONjv6ktDpRTNMbUA18e7zHhHHqgiFUCafa4fI=
+WARNING: 2025/08/30 22:31:32 No PostgreSQL record found for request: RbUZ7Fvdp9BNt7isWY0zCrhVjXvaI3lqh6B8r5Oxkvc= (false)
+INFO: 2025/08/30 22:31:32 Database cache miss:  RbUZ7Fvdp9BNt7isWY0zCrhVjXvaI3lqh6B8r5Oxkvc=
+WARNING: 2025/08/30 22:31:32 No PostgreSQL record found for request: sTmUMwLWCmnrlD9nMDYXmM/5Le6rC6m1ndTzXdk67MQ= (false)
+INFO: 2025/08/30 22:31:32 Database cache miss:  sTmUMwLWCmnrlD9nMDYXmM/5Le6rC6m1ndTzXdk67MQ=
+WARNING: 2025/08/30 22:31:32 No PostgreSQL record found for request: Md/yPaGjm6uRFzAVYVSL47ngN23Z/zZWIjSLDWz+OGc= (false)
+INFO: 2025/08/30 22:31:32 Database cache miss:  Md/yPaGjm6uRFzAVYVSL47ngN23Z/zZWIjSLDWz+OGc=
+WARNING: 2025/08/30 22:31:32 No PostgreSQL record found for request: IsIvevZiwbrAiKmSGxz2xyZQfeEJtrzLjpBzEdNQATo= (false)
+INFO: 2025/08/30 22:31:32 Database cache miss:  IsIvevZiwbrAiKmSGxz2xyZQfeEJtrzLjpBzEdNQATo=
+WARNING: 2025/08/30 22:31:32 No PostgreSQL record found for request: IV6xUXQIooolFe27WgoR+b2UTakoHCrjRr7pxuilCWM= (false)
+INFO: 2025/08/30 22:31:32 Database cache miss:  IV6xUXQIooolFe27WgoR+b2UTakoHCrjRr7pxuilCWM=
+WARNING: 2025/08/30 22:31:32 No PostgreSQL record found for request: yXky7Nx8Ebc62ZEETk2S/3WHRcscZSVGinMBA8NWyWE= (false)
+INFO: 2025/08/30 22:31:32 Database cache miss:  yXky7Nx8Ebc62ZEETk2S/3WHRcscZSVGinMBA8NWyWE=
+WARNING: 2025/08/30 22:31:32 No PostgreSQL record found for request: YubHTDEBMfkw7YaMxnil4Xhwm6LP2kaCLxLqVDGD+AU= (false)
+INFO: 2025/08/30 22:31:32 Database cache miss:  YubHTDEBMfkw7YaMxnil4Xhwm6LP2kaCLxLqVDGD+AU=
+WARNING: 2025/08/30 22:31:32 No PostgreSQL record found for request: Qxitj5tU28BWLU2a2eRo3pSWv8jhHTSk9QuRnz/NyO8= (false)
+INFO: 2025/08/30 22:31:32 Database cache miss:  Qxitj5tU28BWLU2a2eRo3pSWv8jhHTSk9QuRnz/NyO8=
+WARNING: 2025/08/30 22:31:32 No PostgreSQL record found for request: EW98xwjkvW1L33rIYGwRlEFiJkUxZdJ08vpCOeEH9mo= (false)
+INFO: 2025/08/30 22:31:32 Database cache miss:  EW98xwjkvW1L33rIYGwRlEFiJkUxZdJ08vpCOeEH9mo=
+WARNING: 2025/08/30 22:31:32 No PostgreSQL record found for request: 9AzBy4EAe0UuX6l6lf2GRWgTE/DHXy43m1l4KPQNyRg= (false)
+INFO: 2025/08/30 22:31:32 Database cache miss:  9AzBy4EAe0UuX6l6lf2GRWgTE/DHXy43m1l4KPQNyRg=
+WARNING: 2025/08/30 22:31:32 No PostgreSQL record found for request: WCvTKD2UbXwwI11Cg9QlJaQOdfjsCMDnx3O/GuCCBDg= (false)
+INFO: 2025/08/30 22:31:32 Database cache miss:  WCvTKD2UbXwwI11Cg9QlJaQOdfjsCMDnx3O/GuCCBDg=
+WARNING: 2025/08/30 22:31:32 No PostgreSQL record found for request: G34ejB6/EgON1FPJ26+GpYVNN6onE9Ii9o9p1g5gMok= (false)
+INFO: 2025/08/30 22:31:32 Database cache miss:  G34ejB6/EgON1FPJ26+GpYVNN6onE9Ii9o9p1g5gMok=
+WARNING: 2025/08/30 22:31:32 No PostgreSQL record found for request: g7Zm604oNIPA0iyK2j6QMbwgg7XcuTNIJvzEKKRVvBc= (false)
+INFO: 2025/08/30 22:31:32 Database cache miss:  g7Zm604oNIPA0iyK2j6QMbwgg7XcuTNIJvzEKKRVvBc=
+WARNING: 2025/08/30 22:31:32 No PostgreSQL record found for request: CIbCeIol0KMDb+86Ja0/Tx6uW2avqjT++uNp4LVXlOE= (false)
+INFO: 2025/08/30 22:31:32 Database cache miss:  CIbCeIol0KMDb+86Ja0/Tx6uW2avqjT++uNp4LVXlOE=
+WARNING: 2025/08/30 22:31:32 No PostgreSQL record found for request: yUF7eRO13QL095sV8tFegDsvaoDW55OppMphcMHxFak= (false)
+INFO: 2025/08/30 22:31:32 Database cache miss:  yUF7eRO13QL095sV8tFegDsvaoDW55OppMphcMHxFak=
+WARNING: 2025/08/30 22:31:32 No PostgreSQL record found for request: L+T6qFlth41oP5t/vYJ+LJiwF5BpoMtGXZ2/3Za1U9w= (false)
+INFO: 2025/08/30 22:31:32 Database cache miss:  L+T6qFlth41oP5t/vYJ+LJiwF5BpoMtGXZ2/3Za1U9w=
+WARNING: 2025/08/30 22:31:32 No PostgreSQL record found for request: MLWGYIO3Rj+OkeoJpn+F6obPHZJO0P4JXIEcDoJ4BG8= (false)
+INFO: 2025/08/30 22:31:32 Database cache miss:  MLWGYIO3Rj+OkeoJpn+F6obPHZJO0P4JXIEcDoJ4BG8=
+WARNING: 2025/08/30 22:31:32 No PostgreSQL record found for request: LmI86CDMBw2nk3sMABqE8KkNoSd0+bfBFF5nucYVqXs= (false)
+INFO: 2025/08/30 22:31:32 Database cache miss:  LmI86CDMBw2nk3sMABqE8KkNoSd0+bfBFF5nucYVqXs=
+WARNING: 2025/08/30 22:31:32 No PostgreSQL record found for request: N31OEl9jwQaRno+JsEdXVqnj2IwOkFHXvkKJRu0wMog= (false)
+INFO: 2025/08/30 22:31:32 Database cache miss:  N31OEl9jwQaRno+JsEdXVqnj2IwOkFHXvkKJRu0wMog=
+WARNING: 2025/08/30 22:31:32 No PostgreSQL record found for request: Oo0hexitp5bgRW7o6q/xjwhl/pfNK2RL8UFH4rygQ3g= (false)
+INFO: 2025/08/30 22:31:32 Database cache miss:  Oo0hexitp5bgRW7o6q/xjwhl/pfNK2RL8UFH4rygQ3g=
+WARNING: 2025/08/30 22:31:32 No PostgreSQL record found for request: pgo9hAbUKpyCsGy2U5pylRMihv0JWI+pqaz+L2P+Qvg= (false)
+INFO: 2025/08/30 22:31:32 Database cache miss:  pgo9hAbUKpyCsGy2U5pylRMihv0JWI+pqaz+L2P+Qvg=
+WARNING: 2025/08/30 22:31:32 No PostgreSQL record found for request: kpOChQki8gBdA9QZouUkt3js509Bnk+Uih5eWoBoP0w= (false)
+INFO: 2025/08/30 22:31:32 Database cache miss:  kpOChQki8gBdA9QZouUkt3js509Bnk+Uih5eWoBoP0w=
+WARNING: 2025/08/30 22:31:32 No PostgreSQL record found for request: 7/1RUiNZ3RmEB10zlByEWPBamXh5kNCk61imrVrcE3w= (false)
+INFO: 2025/08/30 22:31:32 Database cache miss:  7/1RUiNZ3RmEB10zlByEWPBamXh5kNCk61imrVrcE3w=
+WARNING: 2025/08/30 22:31:32 No PostgreSQL record found for request: jjjhaVuw4KD+L/uJj7KiVrF6WPB0K6yAT4mJPqNE1Yw= (false)
+INFO: 2025/08/30 22:31:32 Database cache miss:  jjjhaVuw4KD+L/uJj7KiVrF6WPB0K6yAT4mJPqNE1Yw=
+WARNING: 2025/08/30 22:31:32 No PostgreSQL record found for request: 6W+dzkZ3RhQOcm504cRH4bOZtV4SURYmCYqjrHb5ars= (false)
+INFO: 2025/08/30 22:31:32 Database cache miss:  6W+dzkZ3RhQOcm504cRH4bOZtV4SURYmCYqjrHb5ars=
+WARNING: 2025/08/30 22:31:32 No PostgreSQL record found for request: A7CmwBQ+RYf0v1J4KKP5rJUH1GXMaM4o4n/gtcRyoLc= (false)
+INFO: 2025/08/30 22:31:32 Database cache miss:  A7CmwBQ+RYf0v1J4KKP5rJUH1GXMaM4o4n/gtcRyoLc=
+WARNING: 2025/08/30 22:31:32 No PostgreSQL record found for request: Ar/MNDzUTlP5tybdgov9lqcZkouOnP3eiucAjDPaLSk= (false)
+INFO: 2025/08/30 22:31:32 Database cache miss:  Ar/MNDzUTlP5tybdgov9lqcZkouOnP3eiucAjDPaLSk=
+WARNING: 2025/08/30 22:31:32 No PostgreSQL record found for request: tHUEj6qPi9dNLMuDmVbIobSVUFd9hKbIPYmfTfS9m4Y= (false)
+INFO: 2025/08/30 22:31:32 Database cache miss:  tHUEj6qPi9dNLMuDmVbIobSVUFd9hKbIPYmfTfS9m4Y=
+WARNING: 2025/08/30 22:31:32 No PostgreSQL record found for request: 8Liqj4w9eMpbC2HB5/p4Bpr+Vo9MBsbQEjIZO0jLC4I= (false)
+INFO: 2025/08/30 22:31:32 Database cache miss:  8Liqj4w9eMpbC2HB5/p4Bpr+Vo9MBsbQEjIZO0jLC4I=
+WARNING: 2025/08/30 22:31:32 No PostgreSQL record found for request: +wuFBRAieLN4pF2/5sHIg8Y8WqIMBU0kyoQKPUUygDY= (false)
+INFO: 2025/08/30 22:31:32 Database cache miss:  +wuFBRAieLN4pF2/5sHIg8Y8WqIMBU0kyoQKPUUygDY=
+WARNING: 2025/08/30 22:31:32 No PostgreSQL record found for request: ebn94crLSt/4InLkqRzWQ1+qyL7hrgl0UlteMeZoc34= (false)
+INFO: 2025/08/30 22:31:32 Database cache miss:  ebn94crLSt/4InLkqRzWQ1+qyL7hrgl0UlteMeZoc34=
+WARNING: 2025/08/30 22:31:32 No PostgreSQL record found for request: OHGjHhD9tTsGm61UKg2t+mh25eXp9buft/+d9B9u39M= (false)
+INFO: 2025/08/30 22:31:32 Database cache miss:  OHGjHhD9tTsGm61UKg2t+mh25eXp9buft/+d9B9u39M=
+WARNING: 2025/08/30 22:31:32 No PostgreSQL record found for request: nU2aEPm8YfRCQ8aza+pEv2TIyBEQKwfLvOH02y0O9Xs= (false)
+INFO: 2025/08/30 22:31:32 Database cache miss:  nU2aEPm8YfRCQ8aza+pEv2TIyBEQKwfLvOH02y0O9Xs=
+WARNING: 2025/08/30 22:31:32 No PostgreSQL record found for request: x+gf0bgydGzzVicWArCmu4D+2Tzyq3GDsHTLAy1/NUk= (false)
+INFO: 2025/08/30 22:31:32 Database cache miss:  x+gf0bgydGzzVicWArCmu4D+2Tzyq3GDsHTLAy1/NUk=
+WARNING: 2025/08/30 22:31:32 No PostgreSQL record found for request: xwMwxicjMgvT6k/+QA7HEaY5aHWRgbkPh1P3+UflLP4= (false)
+INFO: 2025/08/30 22:31:32 Database cache miss:  xwMwxicjMgvT6k/+QA7HEaY5aHWRgbkPh1P3+UflLP4=
+WARNING: 2025/08/30 22:31:32 No PostgreSQL record found for request: JzX+WPDt4IOZPJ0RmFtgo16nnJSVJMx2QvN3asauSmg= (false)
+INFO: 2025/08/30 22:31:32 Database cache miss:  JzX+WPDt4IOZPJ0RmFtgo16nnJSVJMx2QvN3asauSmg=
+WARNING: 2025/08/30 22:31:32 No PostgreSQL record found for request: /iQQQOAOrRc818cNt0QOO4UoXYQAQf+ctaUDFc/IOXA= (false)
+INFO: 2025/08/30 22:31:32 Database cache miss:  /iQQQOAOrRc818cNt0QOO4UoXYQAQf+ctaUDFc/IOXA=
+WARNING: 2025/08/30 22:31:32 No PostgreSQL record found for request: 44Zx3I1l82aScLycpgB7OxfYzRbCJAoZ2DFX49x5FwY= (false)
+INFO: 2025/08/30 22:31:32 Database cache miss:  44Zx3I1l82aScLycpgB7OxfYzRbCJAoZ2DFX49x5FwY=
+WARNING: 2025/08/30 22:31:32 No PostgreSQL record found for request: x1CSWa6TW95gYA2BT/c0/hckKnIwny+k1zH9OdEYOCQ= (false)
+INFO: 2025/08/30 22:31:32 Database cache miss:  x1CSWa6TW95gYA2BT/c0/hckKnIwny+k1zH9OdEYOCQ=
+WARNING: 2025/08/30 22:31:32 No PostgreSQL record found for request: Dv4a0MgfUPR+QtHMhLIT3tNRk95zpQtMjZE/9weRGbQ= (false)
+INFO: 2025/08/30 22:31:32 Database cache miss:  Dv4a0MgfUPR+QtHMhLIT3tNRk95zpQtMjZE/9weRGbQ=
+WARNING: 2025/08/30 22:31:32 No PostgreSQL record found for request: 6iz3nvUpmyPz66s20in5eM4G9IWDYM7A6zU0l0QsdhM= (false)
+INFO: 2025/08/30 22:31:32 Database cache miss:  6iz3nvUpmyPz66s20in5eM4G9IWDYM7A6zU0l0QsdhM=
+WARNING: 2025/08/30 22:31:32 No PostgreSQL record found for request: UKlaieMZfFTfD5egOzb2Q7Fc81rHKW7qukdUbLCSto4= (false)
+INFO: 2025/08/30 22:31:32 Database cache miss:  UKlaieMZfFTfD5egOzb2Q7Fc81rHKW7qukdUbLCSto4=
+WARNING: 2025/08/30 22:31:32 No PostgreSQL record found for request: O18KUBTzj5rgQr0moZw4VdcVer5Si168sxiJR80/nOI= (false)
+INFO: 2025/08/30 22:31:32 Database cache miss:  O18KUBTzj5rgQr0moZw4VdcVer5Si168sxiJR80/nOI=
+WARNING: 2025/08/30 22:31:32 No PostgreSQL record found for request: 5KbSBDwzQZfZqIjkYDWJJgt4kDAMeppLA+d0WJn69Tk= (false)
+INFO: 2025/08/30 22:31:32 Database cache miss:  5KbSBDwzQZfZqIjkYDWJJgt4kDAMeppLA+d0WJn69Tk=
+WARNING: 2025/08/30 22:31:32 No PostgreSQL record found for request: 1QBWaMEW8UPPScuTmP9EnicUu4+yz6HkOSSuX8j90Ss= (false)
+INFO: 2025/08/30 22:31:32 Database cache miss:  1QBWaMEW8UPPScuTmP9EnicUu4+yz6HkOSSuX8j90Ss=
+WARNING: 2025/08/30 22:31:32 No PostgreSQL record found for request: Y7i+QVqgIwAGcLij3G/3VqNntV8bxXqsEi+uNZDwIEs= (false)
+INFO: 2025/08/30 22:31:32 Database cache miss:  Y7i+QVqgIwAGcLij3G/3VqNntV8bxXqsEi+uNZDwIEs=
+WARNING: 2025/08/30 22:31:32 No PostgreSQL record found for request: Fg8NV79Knc53eJIKrbDzXEnxlb1+I3+rOlk/y7EPjUc= (false)
+INFO: 2025/08/30 22:31:32 Database cache miss:  Fg8NV79Knc53eJIKrbDzXEnxlb1+I3+rOlk/y7EPjUc=
+WARNING: 2025/08/30 22:31:32 No PostgreSQL record found for request: oebe3LZBABjgW1LchWQXKro1vLqYHBRf/t93fM6WAdQ= (false)
+INFO: 2025/08/30 22:31:32 Database cache miss:  oebe3LZBABjgW1LchWQXKro1vLqYHBRf/t93fM6WAdQ=
+WARNING: 2025/08/30 22:31:32 No PostgreSQL record found for request: 8pWCk8PaEsBiwUEMdkI2XDvqR2s15p1+X3rDwP3w/Rs= (false)
+INFO: 2025/08/30 22:31:32 Database cache miss:  8pWCk8PaEsBiwUEMdkI2XDvqR2s15p1+X3rDwP3w/Rs=
+WARNING: 2025/08/30 22:31:32 No PostgreSQL record found for request: lTVU/VvzvFmK7u7iU8l5l95tnErdtjpGGtUEpe4LxRI= (false)
+INFO: 2025/08/30 22:31:32 Database cache miss:  lTVU/VvzvFmK7u7iU8l5l95tnErdtjpGGtUEpe4LxRI=
+WARNING: 2025/08/30 22:31:32 No PostgreSQL record found for request: ZUDwKHoQik9RovBhxWT78ZifhB5aqMcxLrziMU6vfaM= (false)
+INFO: 2025/08/30 22:31:32 Database cache miss:  ZUDwKHoQik9RovBhxWT78ZifhB5aqMcxLrziMU6vfaM=
+WARNING: 2025/08/30 22:31:32 No PostgreSQL record found for request: 31rbg9h+gJQXZQymWv/ewrmdPLWZrbQIgh8ccxVvKnU= (false)
+INFO: 2025/08/30 22:31:32 Database cache miss:  31rbg9h+gJQXZQymWv/ewrmdPLWZrbQIgh8ccxVvKnU=
+WARNING: 2025/08/30 22:31:32 No PostgreSQL record found for request: MelhmCRPf4KNSjdk08c8Ox9hoYAmNqzzEZzYTVyO4Ok= (false)
+INFO: 2025/08/30 22:31:32 Database cache miss:  MelhmCRPf4KNSjdk08c8Ox9hoYAmNqzzEZzYTVyO4Ok=
+WARNING: 2025/08/30 22:31:32 No PostgreSQL record found for request: TiA/IO1Mo+nf8rpd8vQneDL2OHQIz2PEfmNSI9Q0sTk= (false)
+INFO: 2025/08/30 22:31:32 Database cache miss:  TiA/IO1Mo+nf8rpd8vQneDL2OHQIz2PEfmNSI9Q0sTk=
+WARNING: 2025/08/30 22:31:32 No PostgreSQL record found for request: yLQq52w8AQ+OIo4QOTP/7icBMh4QskKq7HQqGZ5s8A4= (false)
+INFO: 2025/08/30 22:31:32 Database cache miss:  yLQq52w8AQ+OIo4QOTP/7icBMh4QskKq7HQqGZ5s8A4=
+WARNING: 2025/08/30 22:31:32 No PostgreSQL record found for request: AcPJbUVl1tZqrSzLIi7vI1LQJYQ1xoX53CYALrP6Wm4= (false)
+INFO: 2025/08/30 22:31:32 Database cache miss:  AcPJbUVl1tZqrSzLIi7vI1LQJYQ1xoX53CYALrP6Wm4=
+WARNING: 2025/08/30 22:31:32 No PostgreSQL record found for request: 7uRgDWCvOYx2U5S8sA+EJMI9qZYnTuGC7d7LVgk9G8o= (false)
+INFO: 2025/08/30 22:31:32 Database cache miss:  7uRgDWCvOYx2U5S8sA+EJMI9qZYnTuGC7d7LVgk9G8o=
+WARNING: 2025/08/30 22:31:32 No PostgreSQL record found for request: O9hv3jYu4ctSzoSWXvvCRQGAmIyrkv5xpSWGI+ih+AM= (false)
+INFO: 2025/08/30 22:31:32 Database cache miss:  O9hv3jYu4ctSzoSWXvvCRQGAmIyrkv5xpSWGI+ih+AM=
+WARNING: 2025/08/30 22:31:32 No PostgreSQL record found for request: D6O7J78B9um/qi8mYvIYXYPJc0jBeoSDYunC4VSd8JM= (false)
+INFO: 2025/08/30 22:31:32 Database cache miss:  D6O7J78B9um/qi8mYvIYXYPJc0jBeoSDYunC4VSd8JM=
+WARNING: 2025/08/30 22:31:32 No PostgreSQL record found for request: ca5OTg5gVCebokICY3F+Dod45+O5JBKWpy01Z9UfBqo= (false)
+INFO: 2025/08/30 22:31:32 Database cache miss:  ca5OTg5gVCebokICY3F+Dod45+O5JBKWpy01Z9UfBqo=
+WARNING: 2025/08/30 22:31:32 No PostgreSQL record found for request: 0VdvTzh0+c8uednW2X/FPfRYTmx87slZ0UnUCQRIH0I= (false)
+INFO: 2025/08/30 22:31:32 Database cache miss:  0VdvTzh0+c8uednW2X/FPfRYTmx87slZ0UnUCQRIH0I=
+WARNING: 2025/08/30 22:31:32 No PostgreSQL record found for request: bANX7jjkfYgCumXf+7DxmTzQNO3/mTfH6HRKLVdjVZE= (false)
+INFO: 2025/08/30 22:31:33 Database cache miss:  bANX7jjkfYgCumXf+7DxmTzQNO3/mTfH6HRKLVdjVZE=
+WARNING: 2025/08/30 22:31:33 No PostgreSQL record found for request: 2y1fjdEcKMfSf+Na3vTC3+tBZFC4cQ45qFmNKFIEx9Y= (false)
+INFO: 2025/08/30 22:31:33 Database cache miss:  2y1fjdEcKMfSf+Na3vTC3+tBZFC4cQ45qFmNKFIEx9Y=
+WARNING: 2025/08/30 22:31:33 No PostgreSQL record found for request: olOCNByW78SLejceYRiJX/D8cIuXKYTLz8SO5a5IvgU= (false)
+INFO: 2025/08/30 22:31:33 Database cache miss:  olOCNByW78SLejceYRiJX/D8cIuXKYTLz8SO5a5IvgU=
+WARNING: 2025/08/30 22:31:33 No PostgreSQL record found for request: zUuyA2zaeCoWdGUVOlwEZkntXYidCIaHIASRMtjCrQ4= (false)
+INFO: 2025/08/30 22:31:33 Database cache miss:  zUuyA2zaeCoWdGUVOlwEZkntXYidCIaHIASRMtjCrQ4=
+WARNING: 2025/08/30 22:31:33 No PostgreSQL record found for request: dOnublXGeSaA0U1Sv96NeAeL60f7zdiXJb5HbAWfp2k= (false)
+INFO: 2025/08/30 22:31:33 Database cache miss:  dOnublXGeSaA0U1Sv96NeAeL60f7zdiXJb5HbAWfp2k=
+WARNING: 2025/08/30 22:31:33 No PostgreSQL record found for request: J4w+GHL8o8ZR7Z5T31X2SZOaNebJMEeEKWr/OMGxnwc= (false)
+INFO: 2025/08/30 22:31:33 Database cache miss:  J4w+GHL8o8ZR7Z5T31X2SZOaNebJMEeEKWr/OMGxnwc=
+WARNING: 2025/08/30 22:31:33 No PostgreSQL record found for request: jlEIWKXpZDcVLLaSNzfscW3q9MBg53AddM2RVKYg4Dw= (false)
+INFO: 2025/08/30 22:31:33 Database cache miss:  jlEIWKXpZDcVLLaSNzfscW3q9MBg53AddM2RVKYg4Dw=
+WARNING: 2025/08/30 22:31:33 No PostgreSQL record found for request: BZQfE1HqceKM+kh2Bx27Vs32EXdJEWDQ6ktXTP9UCsw= (false)
+INFO: 2025/08/30 22:31:33 Database cache miss:  BZQfE1HqceKM+kh2Bx27Vs32EXdJEWDQ6ktXTP9UCsw=
+INFO: 2025/08/30 22:31:33 Got result in  16.030226274
+WARNING: 2025/08/30 22:31:33 No PostgreSQL record found for request: JtiKGSO17nao3Txs2swqZ7/3lAgRfiSIwe2HLyDt5pM= (false)
+INFO: 2025/08/30 22:31:33 Database cache miss:  JtiKGSO17nao3Txs2swqZ7/3lAgRfiSIwe2HLyDt5pM=
+WARNING: 2025/08/30 22:31:36 No PostgreSQL record found for request: 6E9ijHtooW3INqiXUd2lIKtgGZQn/O0RoPu0DOekFiQ= (false)
+INFO: 2025/08/30 22:31:36 Database cache miss:  6E9ijHtooW3INqiXUd2lIKtgGZQn/O0RoPu0DOekFiQ=
+WARNING: 2025/08/30 22:31:36 No PostgreSQL record found for request: ynITsXl8txOedO1Bd0zZfedFcvHThtSDCyHFHobNJGM= (false)
+INFO: 2025/08/30 22:31:36 Database cache miss:  ynITsXl8txOedO1Bd0zZfedFcvHThtSDCyHFHobNJGM=
+WARNING: 2025/08/30 22:31:36 No PostgreSQL record found for request: WDkl7DDOU31Bq/OSvXYF674mlx5fxrlBgwqjibuzBYM= (false)
+INFO: 2025/08/30 22:31:36 Database cache miss:  WDkl7DDOU31Bq/OSvXYF674mlx5fxrlBgwqjibuzBYM=
+WARNING: 2025/08/30 22:31:36 No PostgreSQL record found for request: kIv4Ce+LsL+uqvrGMcrgKm9dVZ9TumFwMl9X1tEVVLA= (false)
+INFO: 2025/08/30 22:31:36 Database cache miss:  kIv4Ce+LsL+uqvrGMcrgKm9dVZ9TumFwMl9X1tEVVLA=
+WARNING: 2025/08/30 22:31:36 No PostgreSQL record found for request: aWRsOpRFSm5dvtAWy38YpAqQYA6b5nKgwHhvIBwzYno= (false)
+INFO: 2025/08/30 22:31:36 Database cache miss:  aWRsOpRFSm5dvtAWy38YpAqQYA6b5nKgwHhvIBwzYno=
+WARNING: 2025/08/30 22:31:36 No PostgreSQL record found for request: Oa+sb2ySt9isKswq3s9fFir6ot53r+TG6nLqfmmuKiE= (false)
+INFO: 2025/08/30 22:31:36 Database cache miss:  Oa+sb2ySt9isKswq3s9fFir6ot53r+TG6nLqfmmuKiE=
+WARNING: 2025/08/30 22:31:36 No PostgreSQL record found for request: meQ4OWOZWwAF1lb6dMTxSKeYPfT7vVBDCgOI2WK0ZwY= (false)
+INFO: 2025/08/30 22:31:36 Database cache miss:  meQ4OWOZWwAF1lb6dMTxSKeYPfT7vVBDCgOI2WK0ZwY=
+WARNING: 2025/08/30 22:31:36 No PostgreSQL record found for request: B/MRv4xUbE/7ChgIsFecwZsTNo7GbCQ04cJS+ocVbU4= (false)
+INFO: 2025/08/30 22:31:36 Database cache miss:  B/MRv4xUbE/7ChgIsFecwZsTNo7GbCQ04cJS+ocVbU4=
+WARNING: 2025/08/30 22:31:36 No PostgreSQL record found for request: RPAFmBrglmvwp8kPTlJvd2+NPK9oPHRoCiYSvvadyBw= (false)
+INFO: 2025/08/30 22:31:36 Database cache miss:  RPAFmBrglmvwp8kPTlJvd2+NPK9oPHRoCiYSvvadyBw=
+WARNING: 2025/08/30 22:31:36 No PostgreSQL record found for request: /JTCgkwyMDKCIAqE9zSIloO6jBYDQprGi+m6f++gHIs= (false)
+INFO: 2025/08/30 22:31:36 Database cache miss:  /JTCgkwyMDKCIAqE9zSIloO6jBYDQprGi+m6f++gHIs=
+INFO: 2025/08/30 22:31:37 Got result in  20.017234703
+INFO: 2025/08/30 22:31:41 Got result in  24.031326254
+INFO: 2025/08/30 22:31:45 Got result in  28.03447635
+INFO: 2025/08/30 22:31:49 Got result in  32.025536539
+INFO: 2025/08/30 22:31:53 Got result in  36.017649037
+INFO: 2025/08/30 22:31:57 Got result in  40.021843301
+INFO: 2025/08/30 22:32:01 Got result in  44.018170237
+INFO: 2025/08/30 22:32:05 Got result in  48.045770864
+INFO: 2025/08/30 22:32:09 Got result in  52.02443578
+INFO: 2025/08/30 22:32:13 Got result in  56.027274221
+INFO: 2025/08/30 22:32:17 Got result in  60.036886129
+INFO: 2025/08/30 22:32:21 Got result in  64.052175735
+INFO: 2025/08/30 22:32:25 Got result in  68.039347909
+INFO: 2025/08/30 22:32:29 Got result in  72.035413336
+INFO: 2025/08/30 22:32:33 Got result in  76.022841615
+INFO: 2025/08/30 22:32:37 Got result in  80.04301508
+INFO: 2025/08/30 22:32:41 Got result in  80.041369493
+INFO: 2025/08/30 22:32:45 Got result in  83.052924971
+INFO: 2025/08/30 22:32:49 Got result in  87.048205789
+INFO: 2025/08/30 22:32:53 Got result in  91.048679381
+INFO: 2025/08/30 22:32:57 Got result in  95.053465195
+INFO: 2025/08/30 22:33:01 Got result in  99.01846949
+INFO: 2025/08/30 22:33:05 Got result in  103.017579004
+WARNING: 2025/08/30 22:33:06 No PostgreSQL record found for request: Dy90RVGnzN+ESv7e0/f6QIycm1gQpTYYNzUWJGcjLzo= (false)
+INFO: 2025/08/30 22:33:06 Database cache miss:  Dy90RVGnzN+ESv7e0/f6QIycm1gQpTYYNzUWJGcjLzo=
+INFO: 2025/08/30 22:33:09 Got result in  107.018318798
+INFO: 2025/08/30 22:33:13 Got result in  111.047386672
+INFO: 2025/08/30 22:33:17 Got result in  115.022916068
+INFO: 2025/08/30 22:33:21 Got result in  119.028124833
+INFO: 2025/08/30 22:33:25 Got result in  123.041192483
+INFO: 2025/08/30 22:33:29 Got result in  127.046034712
+INFO: 2025/08/30 22:33:33 Got result in  131.046634739
+INFO: 2025/08/30 22:33:37 Got result in  135.039510146
+INFO: 2025/08/30 22:33:41 Got result in  139.050285567
+INFO: 2025/08/30 22:33:45 Got result in  143.039003244
+INFO: 2025/08/30 22:33:49 Got result in  147.052950635
+INFO: 2025/08/30 22:33:53 Got result in  151.044832562
+INFO: 2025/08/30 22:33:57 Got result in  155.054248706
+INFO: 2025/08/30 22:34:01 Got result in  155.077250496
+INFO: 2025/08/30 22:34:05 Got result in  158.082185041
+INFO: 2025/08/30 22:34:09 Got result in  162.080625019
+INFO: 2025/08/30 22:34:13 Got result in  166.070164996
+INFO: 2025/08/30 22:34:17 Got result in  170.080848696
+INFO: 2025/08/30 22:34:21 Got result in  174.089194479
+INFO: 2025/08/30 22:34:25 Got result in  178.045998206
+INFO: 2025/08/30 22:34:29 Got result in  182.04901363
+INFO: 2025/08/30 22:34:33 Got result in  186.067347064
+INFO: 2025/08/30 22:34:37 Got result in  190.074840098
+INFO: 2025/08/30 22:34:41 Got result in  194.056900131
+INFO: 2025/08/30 22:34:45 Got result in  198.060892457
+INFO: 2025/08/30 22:34:49 Got result in  202.073901674
+INFO: 2025/08/30 22:34:53 Got result in  206.066979743
+INFO: 2025/08/30 22:34:57 Got result in  210.069907465
+INFO: 2025/08/30 22:35:01 Got result in  214.072810751
+INFO: 2025/08/30 22:35:05 Got result in  218.07550356
+INFO: 2025/08/30 22:35:09 Got result in  222.078941787
+INFO: 2025/08/30 22:35:13 Got result in  226.081855382
+INFO: 2025/08/30 22:35:17 Got result in  230.09334178
+INFO: 2025/08/30 22:35:21 Got result in  230.128256005
+INFO: 2025/08/30 22:35:25 Got result in  233.133403106
+INFO: 2025/08/30 22:35:29 Got result in  237.130780689
+INFO: 2025/08/30 22:35:33 Got result in  241.114535146
+INFO: 2025/08/30 22:35:37 Got result in  245.120583274
+INFO: 2025/08/30 22:35:41 Got result in  249.129500871
+INFO: 2025/08/30 22:35:45 Got result in  253.11721677
+INFO: 2025/08/30 22:35:49 Got result in  257.101849489
+INFO: 2025/08/30 22:35:53 Got result in  261.11570141
+INFO: 2025/08/30 22:35:57 Got result in  265.102866
+INFO: 2025/08/30 22:36:01 Got result in  269.104694542
+INFO: 2025/08/30 22:36:05 Got result in  273.09584915
+INFO: 2025/08/30 22:36:09 Got result in  277.118024901
+INFO: 2025/08/30 22:36:13 Got result in  281.113554042
+INFO: 2025/08/30 22:36:17 Got result in  285.104431085
+INFO: 2025/08/30 22:36:21 Got result in  289.107734132
+INFO: 2025/08/30 22:36:25 Got result in  293.110531272
+INFO: 2025/08/30 22:36:29 Got result in  297.113724811
+INFO: 2025/08/30 22:36:33 Got result in  301.116536257
+INFO: 2025/08/30 22:36:37 Got result in  304.19793601
+INFO: 2025/08/30 22:36:41 Got result in  214.778125669
