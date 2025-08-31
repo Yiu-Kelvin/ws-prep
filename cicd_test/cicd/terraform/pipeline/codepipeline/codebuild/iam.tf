@@ -23,16 +23,6 @@ resource "aws_iam_policy" "codebuild_policy" {
   })
 }
 
-resource "aws_iam_policy" "codeconnection_policy" {
-  name        = "codeconnection_policy"
-  description = "allow access to code connection"
-
-  policy = templatefile("${path.module}/template/codeconnection_policy.json", {
-    account_id    = var.account_id
-    region        = var.region
-    connection_id = aws_codeconnections_connection.github_connection.id
-  })
-}
 
 resource "aws_iam_role" "codebuild_role" {
   name               = "codebuild_role"
@@ -46,7 +36,7 @@ resource "aws_iam_role_policy_attachment" "attach_codebuild_policy" {
 
 resource "aws_iam_role_policy_attachment" "attach_codeconnection_policy" {
   role       = aws_iam_role.codebuild_role.name
-  policy_arn = aws_iam_policy.codeconnection_policy.arn
+  policy_arn = var.codeconnection_policy_arn
 }
 
 resource "aws_iam_role_policy_attachment" "attach_ecr_policy" {

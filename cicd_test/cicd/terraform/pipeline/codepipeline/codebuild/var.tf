@@ -24,3 +24,7 @@ variable "region" {
   type    = string
 }
 
+variable "codeconnection_policy_arn" {
+  type = string
+}
+
