@@ -1,8 +1,3 @@
-resource "aws_codeconnections_connection" "github_connection" {
-  name          = "github_connection"
-  provider_type = "GitHub"
-}
-
 resource "aws_codebuild_project" "codebuild_proj" {
   name          = var.proj_name
   build_timeout = 5

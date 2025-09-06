@@ -4,15 +4,11 @@
         {
             "Effect": "Allow",
             "Action": [
-                "codestar-connections:GetConnectionToken",
-                "codestar-connections:GetConnection",
-                "codeconnections:GetConnectionToken",
-                "codeconnections:GetConnection",
-                "codeconnections:UseConnection"
+                "codeconnections:UseConnection",
+                "codestar-connections:UseConnection"
             ],
             "Resource": [
-                "arn:aws:codestar-connections:${region}:${account_id}:connection/${connection_id}",
-                "arn:aws:codeconnections:${region}:${account_id}:connection/${connection_id}"
+                "${connection_id}"
             ]
         }
     ]

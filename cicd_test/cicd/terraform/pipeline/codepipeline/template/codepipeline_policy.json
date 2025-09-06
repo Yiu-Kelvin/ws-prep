@@ -35,6 +35,18 @@
                     "aws:ResourceAccount": "${account_id}"
                 }
             }
+        },
+        {
+           "Sid": "AllowCodebuildAccess",
+           "Effect": "Allow",
+           "Action" : [
+              "codebuild:StartBuild",
+              "codebuild:StopBuild",
+              "codebuild:BatchGetBuilds"
+            ],
+            "Resource": [
+                "${codebuild_arn}"
+            ]
         }
     ]
 }

@@ -4,7 +4,7 @@ data "aws_iam_policy_document" "assume_role" {
 
     principals {
       type        = "Service"
-      identifiers = ["codebuild.amazonaws.com"]
+      identifiers = ["codepipeline.amazonaws.com"]
     }
 
     actions = ["sts:AssumeRole"]
@@ -20,19 +20,10 @@ resource "aws_iam_policy" "codepipeline_policy" {
     region              = var.region
     proj_name           = var.proj_name
     codepipeline_bucket = var.codepipeline_bucket
+    codebuild_arn       = module.codebuild.codebuild_arn
   })
 }
 
-
-resource "aws_iam_role" "codepipeline_role" {
-  name               = "codepipeline_role"
-  assume_role_policy = data.aws_iam_policy_document.assume_role.json
-}
-
-resource "aws_iam_role_policy_attachment" "attach_codebuild_policy" {
-  role       = aws_iam_role.codepipeline_role.name
-  policy_arn = aws_iam_policy.codebuild_policy.arn
-}
 
 resource "aws_iam_policy" "codeconnection_policy" {
   name        = "codeconnection_policy"
@@ -44,3 +35,20 @@ resource "aws_iam_policy" "codeconnection_policy" {
     connection_id = aws_codeconnections_connection.github_connection.id
   })
 }
+
+resource "aws_iam_role" "codepipeline_role" {
+  name               = "codepipeline_role"
+  assume_role_policy = data.aws_iam_policy_document.assume_role.json
+}
+
+resource "aws_iam_role_policy_attachment" "attach_codepipeline_policy" {
+  role       = aws_iam_role.codepipeline_role.name
+  policy_arn = aws_iam_policy.codepipeline_policy.arn
+}
+
+resource "aws_iam_role_policy_attachment" "attach_codeconnection_policy" {
+  role       = aws_iam_role.codepipeline_role.name
+  policy_arn = aws_iam_policy.codeconnection_policy.arn
+}
+
+

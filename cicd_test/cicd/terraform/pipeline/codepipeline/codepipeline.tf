@@ -1,3 +1,9 @@
+resource "aws_codeconnections_connection" "github_connection" {
+  name          = "github_connection"
+  provider_type = "GitHub"
+}
+
+
 resource "aws_codepipeline" "codepipeline" {
   name     = var.proj_name
   role_arn = aws_iam_role.codepipeline_role.arn
@@ -19,8 +25,8 @@ resource "aws_codepipeline" "codepipeline" {
       output_artifacts = ["source_output"]
 
       configuration = {
-        ConnectionArn    = aws_codestarconnections_connection.example.arn
-        FullRepositoryId = "my-organization/example"
+        ConnectionArn    = aws_codeconnections_connection.github_connection.arn
+        FullRepositoryId = "Yiu-Kelvin/ws-prep"
         BranchName       = "main"
       }
     }
