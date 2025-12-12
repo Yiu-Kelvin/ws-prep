@@ -16,7 +16,7 @@ services:
     depends_on:
       - postgres  # Optional: Ensures DB starts first (Swarm ignores depends_on for dependencies)
     deploy:
-      replicas: 1000
+      replicas: 30
       update_config:
         parallelism: 2
         delay: 10s
